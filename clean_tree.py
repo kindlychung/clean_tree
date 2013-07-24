@@ -2,6 +2,8 @@
 import argparse
 import os
 import subprocess
+import string
+import random
 
 
 parser = argparse.ArgumentParser()
@@ -19,25 +21,33 @@ assert(os.path.exists(args.Markerfile))
 assert(os.path.exists(args.Bamfile))
 assert(os.path.splitext(args.Bamfile)[1] == '.bam')
 
-pileup_cmd = "samtools.latest mpileup -f hg19.fa {} > tmp/out.pu".format(args.Bamfile)
+def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
+    return ''.join(random.choice(chars) for x in range(size))
+
+app_folder = os.getenv('HOME') + '/clean_tree/'
+rsource = app_folder + 'clean_tree.r'
+reffile = app_folder + 'hg19.fa'
+rscriptn = '{}/tmp/main.r'.format(app_folder)
+pileupfile = '{}/tmp/out.pu'.format(app_folder)
+#tmp_folder = '/tmp/arwin.' + id_generator()
+#os.makedirs(tmp_folder, exist_ok=True)
+
+pileup_cmd = "samtools.latest mpileup -f {} {} > {}".format(reffile, args.Bamfile, pileupfile)
 subprocess.call(pileup_cmd, shell=True)
 print(pileup_cmd)
 
-roptions = """
+roptions1 = """
 Markerfile = '{Markerfile}'
 Outputfile = '{Outputfile}'
 Reads_thresh = {Reads_thresh}
 Quality_thresh = {Quality_thresh}
 Base_majority = {Base_majority}
 
-
 """.format(**vars(args))
+roptions2 = "Pileupfile = '{}'\n\n".format(pileupfile)
 
-rscriptn = 'tmp/main.r'
-rfile = roptions + open('clean_tree.r').read()
+rfile = roptions1 + roptions2 + open(rsource).read()
 with open(rscriptn, 'w') as r_out:
     r_out.write(rfile)
-subprocess.call('Rscript --vanilla tmp/main.r'.split())
-
-
-print(rfile)
+rcmd = 'Rscript --vanilla {}'.format(rscriptn)
+subprocess.call(rcmd.split())
