@@ -1,0 +1,3322 @@
+Row:  1 
+   chr      pos name             hg
+1 chrY 10008883 L200 R1b1a2a1a1c2b3
+myalign
+          .           A 
+0.992424242 0.007575758 
+Row:  2 
+   chr      pos name hg
+2 chrY 13992279 P261 K3
+myalign
+. 
+1 
+Row:  3 
+   chr      pos name   hg
+3 chrY 13992338 P216 I2a2
+myalign
+         .        +1T          A          T 
+0.99667774 0.00110742 0.00110742 0.00110742 
+Row:  4 
+   chr      pos name    hg
+4 chrY 14000929 P322 T1a2a
+myalign
+          .         -1C         +1C         +1T 
+0.996103896 0.001298701 0.001298701 0.001298701 
+Row:  5 
+   chr      pos name hg
+5 chrY 14001024 P202  S
+myalign
+. 
+1 
+Row:  6 
+   chr      pos name    hg
+6 chrY 14001232 P164 O3a2c
+myalign
+          .           $           G 
+0.996376812 0.001811594 0.001811594 
+Row:  7 
+   chr      pos name        hg
+7 chrY 14001525 L660 G2a1c2a1d
+myalign
+. 
+1 
+Row:  8 
+   chr      pos name  hg
+8 chrY 14028148  L31 G2a
+myalign
+          .         +1G 
+0.998887653 0.001112347 
+Row:  9 
+   chr      pos name    hg
+9 chrY 14054623 M515 R1a1a
+myalign
+. 
+1 
+Row:  10 
+    chr      pos name   hg
+10 chrY 14060308 P179 E1b1
+myalign
+C 
+1 
+Row:  11 
+    chr      pos    name       hg
+11 chrY 14092982 CTS1847 E1b1a1a1
+myalign
+A 
+1 
+Row:  12 
+    chr      pos name          hg
+12 chrY 14138490 L591 N1c1a1a1a1b
+myalign
+. 
+1 
+Row:  13 
+    chr      pos name  hg
+13 chrY 14138745 L145 R1a
+myalign
+          .           $         +1A 
+0.991902834 0.004048583 0.004048583 
+Row:  14 
+    chr      pos name  hg
+14 chrY 14159846 P177 E1b
+myalign
+T 
+1 
+Row:  15 
+    chr      pos name          hg
+15 chrY 14159864 L657 R1a1a1b2a1a
+myalign
+          .         +1C 
+0.998972251 0.001027749 
+Row:  16 
+    chr      pos name  hg
+16 chrY 14197631 L596 I2c
+myalign
+          .         +1T           A 
+0.991489362 0.004255319 0.004255319 
+Row:  17 
+    chr      pos name hg
+17 chrY 14197867 P143 CF
+myalign
+          .           G 
+0.002320186 0.997679814 
+Row:  18 
+    chr      pos  name          hg
+18 chrY 14231229 L1265 G2a1c2a1a2a
+myalign
+          .         +1G           G 
+0.995975855 0.001006036 0.003018109 
+Row:  19 
+    chr      pos name             hg
+19 chrY 14231292  L20 R1b1a2a1a2b1a1
+myalign
+G 
+1 
+Row:  20 
+    chr      pos name          hg
+20 chrY 14236879 L791 E1b1b1b2a1d
+myalign
+. 
+1 
+Row:  21 
+    chr      pos name    hg
+21 chrY 14286528  L24 J2a1h
+myalign
+. 
+1 
+Row:  22 
+    chr      pos   name   hg
+22 chrY 14288981 L127.1 O3a1
+myalign
+. 
+1 
+Row:  23 
+    chr      pos name       hg
+23 chrY 14288983 L703 I2a2a1b2
+myalign
+. 
+1 
+Row:  24 
+    chr      pos name   hg
+24 chrY 14401486 S243 I1a4
+myalign
+. 
+1 
+Row:  25 
+    chr      pos name            hg
+25 chrY 14484328  L97 E1b1a1a1g1a1a
+myalign
+. 
+1 
+Row:  26 
+    chr      pos name hg
+26 chrY 14484379  P38  I
+myalign
+. 
+1 
+Row:  27 
+    chr      pos name hg
+27 chrY 14484471  P60 K1
+myalign
+. 
+1 
+Row:  28 
+    chr      pos name   hg
+28 chrY 14486667  P58 J1b2
+myalign
+. 
+1 
+Row:  29 
+    chr      pos name  hg
+29 chrY 14487066  P57 S1a
+myalign
+          .        +2CA 
+0.998368679 0.001631321 
+Row:  30 
+    chr      pos name   hg
+30 chrY 14487338  P56 J1b1
+myalign
+          .           G 
+0.997844828 0.002155172 
+Row:  31 
+    chr      pos name    hg
+31 chrY 14487362 L233 I2a1c
+myalign
+        ^}          . 
+0.00286533 0.99713467 
+Row:  32 
+    chr      pos  name  hg
+32 chrY 14491649 P53.1 C3d
+myalign
+. 
+1 
+Row:  33 
+    chr      pos name   hg
+33 chrY 14491659  P54 C2a2
+myalign
+          .         +1T           G 
+0.995714286 0.001428571 0.002857143 
+Row:  34 
+    chr      pos   name hg
+34 chrY 14491671 M359.1 D2
+myalign
+          .           C 
+0.998211091 0.001788909 
+Row:  35 
+    chr      pos  name hg
+35 chrY 14491684 P37.1 D2
+myalign
+          .           C 
+0.998293515 0.001706485 
+Row:  36 
+    chr      pos name    hg
+36 chrY 14491706 L202 G1a1a
+myalign
+          .         +1A 
+0.996240602 0.003759398 
+Row:  37 
+    chr      pos name   hg
+37 chrY 14492042  P51 M1a1
+myalign
+. 
+1 
+Row:  38 
+    chr      pos name hg
+38 chrY 14495243  P31 O2
+myalign
+. 
+1 
+Row:  39 
+    chr      pos name hg
+39 chrY 14495251  P44 C3
+myalign
+. 
+1 
+Row:  40 
+    chr      pos   name     hg
+40 chrY 14496118 Page95 A1b1a1
+myalign
+. 
+1 
+Row:  41 
+    chr      pos    name  hg
+41 chrY 14496855 CTS2808 E1a
+myalign
+. 
+1 
+Row:  42 
+    chr      pos name  hg
+42 chrY 14497168  P47 D3a
+myalign
+. 
+1 
+Row:  43 
+    chr      pos  name     hg
+43 chrY 14498990 Page7 R1a1a1
+myalign
+          .           T 
+0.997237569 0.002762431 
+Row:  44 
+    chr      pos name             hg
+44 chrY 14515250   L1 R1b1a2a1a1c1a1
+myalign
+. 
+1 
+Row:  45 
+    chr      pos name             hg
+45 chrY 14515450 L746 R1b1a2a1a2c1i1
+myalign
+. 
+1 
+Row:  46 
+    chr      pos name hg
+46 chrY 14529630 L490 T1
+myalign
+. 
+1 
+Row:  47 
+    chr      pos    name       hg
+47 chrY 14570424 CTS2929 N1c1a1a1
+myalign
+          .           C 
+0.997076023 0.002923977 
+Row:  48 
+    chr      pos name         hg
+48 chrY 14636457 L514 E1b1a1a1f1
+myalign
+. 
+1 
+Row:  49 
+    chr      pos name        hg
+49 chrY 14641193  L52 R1b1a2a1a
+myalign
+          .         -1T         +1T 
+0.996965099 0.001517451 0.001517451 
+Row:  50 
+    chr      pos name    hg
+50 chrY 14692227  L32 G2a1c
+myalign
+T 
+1 
+Row:  51 
+    chr      pos name         hg
+51 chrY 14698928  L13 G2a1c2a1a1
+myalign
+C 
+1 
+Row:  52 
+    chr      pos name      hg
+52 chrY 14813717 M169 B2b1a1a
+myalign
+          .         +1A 
+0.993055556 0.006944444 
+Row:  53 
+    chr      pos name hg
+53 chrY 14813991 M168 CT
+myalign
+          .           C 
+0.998330551 0.001669449 
+Row:  54 
+    chr      pos name hg
+54 chrY 14819693 P117 M3
+myalign
+         .        +1T 
+0.96296296 0.03703704 
+Row:  55 
+    chr      pos name        hg
+55 chrY 14850035 L812 I2a2a1d1a
+myalign
+          .           $         +1T          ^F          ^W 
+0.990314770 0.002421308 0.002421308 0.002421308 0.002421308 
+Row:  56 
+    chr      pos name        hg
+56 chrY 14850314 L369 I2a2a1a1a
+myalign
+. 
+1 
+Row:  57 
+    chr      pos  name             hg
+57 chrY 14850465 P89.2 R1b1a2a1a1c1a2
+myalign
+          .         -1T         +1T           T 
+0.873303167 0.117647059 0.004524887 0.004524887 
+Row:  58 
+    chr      pos name  hg
+58 chrY 14850853  P92 C5a
+myalign
+. 
+1 
+Row:  59 
+    chr      pos name  hg
+59 chrY 14851526   N1 D1a
+myalign
+          .         +1T 
+0.997912317 0.002087683 
+Row:  60 
+    chr      pos name      hg
+60 chrY 14851538   N5 O3a2b1a
+myalign
+. 
+1 
+Row:  61 
+    chr      pos name hg
+61 chrY 14851554 M181  B
+myalign
+. 
+1 
+Row:  62 
+    chr      pos name hg
+62 chrY 14869076 M182 B2
+myalign
+          .         +1A           T 
+0.996124031 0.001937984 0.001937984 
+Row:  63 
+    chr      pos name            hg
+63 chrY 14869250 P115 E1b1a1a1f1a1b
+myalign
+          .         +1A 
+0.996794872 0.003205128 
+Row:  64 
+    chr      pos name   hg
+64 chrY 14869681  P94 M1a2
+myalign
+          .         +1T 
+0.996254682 0.003745318 
+Row:  65 
+    chr      pos name            hg
+65 chrY 14869690 P116 E1b1a1a1f1a1c
+myalign
+          .         +1C           G 
+0.993796526 0.001240695 0.004962779 
+Row:  66 
+    chr      pos name         hg
+66 chrY 14869706  P95 I2a2a1c1a1
+myalign
+          .           A 
+0.996705107 0.003294893 
+Row:  67 
+    chr      pos name   hg
+67 chrY 14870114 L581 J2a2
+myalign
+. 
+1 
+Row:  68 
+    chr      pos name         hg
+68 chrY 14871976  L78 G2a1c2a1a1
+myalign
+        +1C           C 
+0.002590674 0.997409326 
+Row:  69 
+    chr      pos name hg
+69 chrY 14886386  P99 D3
+myalign
+          .           T 
+0.997987928 0.002012072 
+Row:  70 
+    chr      pos name         hg
+70 chrY 14888783 M183 E1b1b1b1a2
+myalign
+. 
+1 
+Row:  71 
+    chr      pos name   hg
+71 chrY 14889974 L215 Q1b1
+myalign
+          .         +1T           T 
+0.996835443 0.001582278 0.001582278 
+Row:  72 
+    chr      pos name hg
+72 chrY 14898163 M184  T
+myalign
+          .           $ 
+0.998473282 0.001526718 
+Row:  73 
+    chr      pos name              hg
+73 chrY 14902414 M222 R1b1a2a1a2c1a1a
+myalign
+        .       +1A       +1C       +1T 
+0.9944212 0.0013947 0.0013947 0.0027894 
+Row:  74 
+    chr      pos name            hg
+74 chrY 14902456  L96 R1b1a2a1a2c1c
+myalign
+          .         +1T 
+0.998376623 0.001623377 
+Row:  75 
+    chr      pos name   hg
+75 chrY 14922583  M46 N1c1
+myalign
+          .           C 
+0.997005988 0.002994012 
+Row:  76 
+    chr      pos name     hg
+76 chrY 14924869 M188 O3a2b1
+myalign
+. 
+1 
+Row:  77 
+    chr      pos name hg
+77 chrY 14954280 M174  D
+myalign
+. 
+1 
+Row:  78 
+    chr      pos name      hg
+78 chrY 14968331 M239 A1b1b2a
+myalign
+          .         +1A         +1C         +1T 
+0.995827538 0.001390821 0.001390821 0.001390821 
+Row:  79 
+    chr      pos name hg
+79 chrY 14969634 M172 J2
+myalign
+. 
+1 
+Row:  80 
+    chr      pos name          hg
+80 chrY 14991735 S493 R1b1a2a1a1b
+myalign
+          .         +1A 
+0.998336106 0.001663894 
+Row:  81 
+    chr      pos name hg
+81 chrY 15014505 M193 T1
+myalign
+          .         +1T 
+0.997084548 0.002915452 
+Row:  82 
+    chr      pos name      hg
+82 chrY 15014550 M194 Q1a3a1b
+myalign
+         .          C 
+0.98823529 0.01176471 
+Row:  83 
+    chr      pos name      hg
+83 chrY 15015441 L231 J2a3h2c
+myalign
+          .           T 
+0.997826087 0.002173913 
+Row:  84 
+    chr      pos   name          hg
+84 chrY 15016438 M263.2 E1b1a1a1f1b
+myalign
+. 
+1 
+Row:  85 
+    chr      pos name        hg
+85 chrY 15016536 M195 E1b1a1a1e
+myalign
+           .          +1G            G           ^O 
+0.9932756964 0.0048030740 0.0009606148 0.0009606148 
+Row:  86 
+    chr      pos name   hg
+86 chrY 15018459 M241 J2b2
+myalign
+. 
+1 
+Row:  87 
+    chr      pos name hg
+87 chrY 15018582 M242  Q
+myalign
+          .         +1T 
+0.998675497 0.001324503 
+Row:  88 
+    chr      pos name     hg
+88 chrY 15019092 M243 E1b1b1
+myalign
+          .           C           G 
+0.995061728 0.002469136 0.002469136 
+Row:  89 
+    chr      pos name      hg
+89 chrY 15019573 L333 Q1a3a3a
+myalign
+          .           C 
+0.990825688 0.009174312 
+Row:  90 
+    chr      pos name          hg
+90 chrY 15019613 M191 E1b1a1a1f1a
+myalign
+          .         +1A 
+0.997647059 0.002352941 
+Row:  91 
+    chr      pos name  hg
+91 chrY 15019719  P87 M1b
+myalign
+         .        -1G        +1G        +1T       +2CG          G 
+0.99250375 0.00149925 0.00149925 0.00149925 0.00149925 0.00149925 
+Row:  92 
+    chr      pos name hg
+92 chrY 15022762 M254 S1
+myalign
+          .         +1A           T 
+0.995341615 0.003105590 0.001552795 
+Row:  93 
+    chr      pos name             hg
+93 chrY 15022777 L554 R1b1a2a1a2c1f1
+myalign
+          .           $ 
+0.998484848 0.001515152 
+Row:  94 
+    chr      pos name  hg
+94 chrY 15024040 L996 A0a
+myalign
+. 
+1 
+Row:  95 
+    chr      pos name     hg
+95 chrY 15025506 M260 J2a1b1
+myalign
+          .         +1C         -1T 
+0.996296296 0.001851852 0.001851852 
+Row:  96 
+    chr      pos name   hg
+96 chrY 15025598 M197 H1a1
+myalign
+           .          +1A            C 
+0.9972451791 0.0009182736 0.0018365473 
+Row:  97 
+    chr      pos name    hg
+97 chrY 15026395 M335 R1b1b
+myalign
+. 
+1 
+Row:  98 
+    chr      pos name  hg
+98 chrY 15027433 M377 G2b
+myalign
+          .         +1T           G 
+0.994434137 0.003710575 0.001855288 
+Row:  99 
+    chr      pos name   hg
+99 chrY 15027507 M378 Q1b1
+myalign
+. 
+1 
+Row:  100 
+     chr      pos name      hg
+100 chrY 15029492 M202 A1b1b2b
+myalign
+. 
+1 
+Row:  101 
+     chr      pos name   hg
+101 chrY 15030650 M265 Q1a1
+myalign
+          .           G           T 
+0.995157385 0.002421308 0.002421308 
+Row:  102 
+     chr      pos name      hg
+102 chrY 15030682 M196 A1b1a1a
+myalign
+          ^~            .            $ 
+0.0006830601 0.9986338798 0.0006830601 
+Row:  103 
+     chr      pos name    hg
+103 chrY 15030752 M198 R1a1a
+myalign
+          .          ^T 
+0.998470948 0.001529052 
+Row:  104 
+     chr      pos name      hg
+104 chrY 15030767 P292 Q1a3a1c
+myalign
+. 
+1 
+Row:  105 
+     chr      pos name      hg
+105 chrY 15031110 M199 Q1a3a1c
+myalign
+. 
+1 
+Row:  106 
+     chr      pos name     hg
+106 chrY 15031158 P258 E2b1a2
+myalign
+. 
+1 
+Row:  107 
+     chr      pos name   hg
+107 chrY 15031385 M283 G2b1
+myalign
+          .           G 
+0.996805112 0.003194888 
+Row:  108 
+     chr      pos name    hg
+108 chrY 15031416 M200 E2b1a
+myalign
+          .         +1A         +1T 
+0.988924051 0.003164557 0.007911392 
+Row:  109 
+     chr      pos name        hg
+109 chrY 15058878   U1 G2a1c2a1a
+myalign
+A 
+1 
+Row:  110 
+     chr      pos name hg
+110 chrY 15415115 P191  O
+myalign
+         .          G 
+0.99751861 0.00248139 
+Row:  111 
+     chr      pos name  hg
+111 chrY 15436316 M221 J2b
+myalign
+. 
+1 
+Row:  112 
+     chr      pos name   hg
+112 chrY 15437063 M218 B2a1
+myalign
+          .         +1A 
+0.996779388 0.003220612 
+Row:  113 
+     chr      pos name hg
+113 chrY 15437333 M217 C3
+myalign
+. 
+1 
+Row:  114 
+     chr      pos name    hg
+114 chrY 15467785 M319 J2a1d
+myalign
+      .     -1A     +1A 
+0.98125 0.01250 0.00625 
+Row:  115 
+     chr      pos name    hg
+115 chrY 15467824 M215 E1b1b
+myalign
+. 
+1 
+Row:  116 
+     chr      pos name hg
+116 chrY 15469724 M231  N
+myalign
+          .         +1A 
+0.997368421 0.002631579 
+Row:  117 
+     chr      pos name    hg
+117 chrY 15469740 M322 J2a1a
+myalign
+. 
+1 
+Row:  118 
+     chr      pos name hg
+118 chrY 15471925 M214 NO
+myalign
+. 
+1 
+Row:  119 
+     chr      pos name hg
+119 chrY 15472863 P131  K
+myalign
+        +1C           C 
+0.002994012 0.997005988 
+Row:  120 
+     chr      pos name    hg
+120 chrY 15477744 L205 I1a2b
+myalign
+          .        -2AT      -4ATTT 
+0.996987952 0.001506024 0.001506024 
+Row:  121 
+     chr      pos name hg
+121 chrY 15477825 P104 F1
+myalign
+. 
+1 
+Row:  122 
+     chr      pos name     hg
+122 chrY 15477831 P103 O3a1c1
+myalign
+. 
+1 
+Row:  123 
+     chr      pos name      hg
+123 chrY 15515812 M229 A1b1b2a
+myalign
+          .           $ 
+0.997572816 0.002427184 
+Row:  124 
+     chr      pos name        hg
+124 chrY 15526695 M212 A1b1a1a2a
+myalign
+. 
+1 
+Row:  125 
+     chr      pos name  hg
+125 chrY 15575780 M210 C4a
+myalign
+          .           G 
+0.995268139 0.004731861 
+Row:  126 
+     chr      pos name     hg
+126 chrY 15575790 M209 O3a2b1
+myalign
+          .        +2CT 
+0.996240602 0.003759398 
+Row:  127 
+     chr      pos name  hg
+127 chrY 15576203 M208 C2a
+myalign
+. 
+1 
+Row:  128 
+     chr      pos name         hg
+128 chrY 15579215 P277 E1b1a1a1g1
+myalign
+. 
+1 
+Row:  129 
+     chr      pos name   hg
+129 chrY 15587509 M205 J2b1
+myalign
+. 
+1 
+Row:  130 
+     chr      pos name  hg
+130 chrY 15587574 L314 Q1b
+myalign
+          .           $ 
+0.997971602 0.002028398 
+Row:  131 
+     chr      pos name        hg
+131 chrY 15588401 S198 R1a1a1b1a
+myalign
+           .          +1A            C 
+0.9983193277 0.0008403361 0.0008403361 
+Row:  132 
+     chr      pos name   hg
+132 chrY 15591446 M227 I1a1
+myalign
+          .          ^G 
+0.995260664 0.004739336 
+Row:  133 
+     chr      pos name  hg
+133 chrY 15591447 M226 S1d
+myalign
+. 
+1 
+Row:  134 
+     chr      pos name    hg
+134 chrY 15604899  L30 G2a1c
+myalign
+          .         +1A           T 
+0.996093750 0.001953125 0.001953125 
+Row:  135 
+     chr      pos   name    hg
+135 chrY 15810964 L159.1 I2a1a
+myalign
+        ^-          . 
+0.01428571 0.98571429 
+Row:  136 
+     chr      pos name   hg
+136 chrY 15879017 L120 R1a1
+myalign
+. 
+1 
+Row:  137 
+     chr      pos   name      hg
+137 chrY 15999244 Page23 O3a2c1a
+myalign
+. 
+1 
+Row:  138 
+     chr      pos name     hg
+138 chrY 16018726 P321 T1a1a2
+myalign
+           .           ^5            T 
+0.9983673469 0.0008163265 0.0008163265 
+Row:  139 
+     chr      pos name    hg
+139 chrY 16019017 P330 T1a1c
+myalign
+          .           $           G 
+0.996825397 0.001587302 0.001587302 
+Row:  140 
+     chr      pos name      hg
+140 chrY 16020280 L573 I1a3a1c
+myalign
+. 
+1 
+Row:  141 
+     chr      pos name      hg
+141 chrY 16020373 P317 T1a1a2a
+myalign
+. 
+1 
+Row:  142 
+     chr      pos name                 hg
+142 chrY 16190880 S274 R1b1a2a1a1c2b2a1a1
+myalign
+           .          +1A         +2GA            A 
+0.9971264368 0.0014367816 0.0007183908 0.0007183908 
+Row:  143 
+     chr      pos name      hg
+143 chrY 16198895 L332 Q1a3a3a
+myalign
+        ^~          . 
+0.02272727 0.97727273 
+Row:  144 
+     chr      pos name    hg
+144 chrY 16199051  L39 I2a2b
+myalign
+           .            C 
+0.9990494297 0.0009505703 
+Row:  145 
+     chr      pos name       hg
+145 chrY 16202490 L623 I2a2a1c2
+myalign
+. 
+1 
+Row:  146 
+     chr      pos name     hg
+146 chrY 16202544 L160 I2a1a1
+myalign
+. 
+1 
+Row:  147 
+     chr      pos name hg
+147 chrY 16202980 P194 NO
+myalign
+          ^~            .          +1T            T 
+0.0009319664 0.9972041007 0.0009319664 0.0009319664 
+Row:  148 
+     chr      pos name                  hg
+148 chrY 16248523 S276 R1b1a2a1a1c2b2a1a2a
+myalign
+         ^?           . 
+0.001322751 0.998677249 
+Row:  149 
+     chr      pos name           hg
+149 chrY 16251357 P252 E1b1a1a1f1a1
+myalign
+          .         +1T        +2AC       +3ACT 
+0.996240602 0.001253133 0.001253133 0.001253133 
+Row:  150 
+     chr      pos name        hg
+150 chrY 16253694 U175 E1b1a1a1g
+myalign
+. 
+1 
+Row:  151 
+     chr      pos name            hg
+151 chrY 16310705 S356 R1b1a2a1a2a1a
+myalign
+. 
+1 
+Row:  152 
+     chr      pos name           hg
+152 chrY 16374426 U181 E1b1a1a1g1a1
+myalign
+. 
+1 
+Row:  153 
+     chr      pos  name          hg
+153 chrY 16453077 Z2123 R1a1a1b2a1b
+myalign
+          .         +1G 
+0.997718631 0.002281369 
+Row:  154 
+     chr      pos name          hg
+154 chrY 16478552 U186 E1b1a1a1f1a
+myalign
+. 
+1 
+Row:  155 
+     chr      pos    name        hg
+155 chrY 16596946 CTS5990 G2a1c2a1c
+myalign
+          .           G 
+0.997229917 0.002770083 
+Row:  156 
+     chr      pos name hg
+156 chrY 16638804 M438 I2
+myalign
+          .           $ 
+0.998050682 0.001949318 
+Row:  157 
+     chr      pos name           hg
+157 chrY 16660759  L42 G2a1c2a1b1a1
+myalign
+. 
+1 
+Row:  158 
+     chr      pos name    hg
+158 chrY 16660785 L446 T1a2b
+myalign
+. 
+1 
+Row:  159 
+     chr      pos name             hg
+159 chrY 16787539 S211 R1b1a2a1a2b1c1
+myalign
+. 
+1 
+Row:  160 
+     chr      pos name    hg
+160 chrY 16802360 S246 I1a3a
+myalign
+           .            A 
+0.9990689013 0.0009310987 
+Row:  161 
+     chr      pos name            hg
+161 chrY 16839499 M467 R1b1a2a1a1c2a
+myalign
+. 
+1 
+Row:  162 
+     chr      pos  name         hg
+162 chrY 16903025 L1266 G2a1c2a1a2
+myalign
+          .           C 
+0.995833333 0.004166667 
+Row:  163 
+     chr      pos name          hg
+163 chrY 16936081  L29 E1b1b1b2a1a
+myalign
+. 
+1 
+Row:  164 
+     chr      pos name           hg
+164 chrY 16954812 S342 R1a1a1b1a3b1
+myalign
+          .         +1T 
+0.997946612 0.002053388 
+Row:  165 
+     chr      pos name            hg
+165 chrY 16992602 DF41 R1b1a2a1a2c1i
+myalign
+. 
+1 
+Row:  166 
+     chr      pos name hg
+166 chrY 17053771 P198 O3
+myalign
+. 
+1 
+Row:  167 
+     chr      pos    name          hg
+167 chrY 17111777 CTS6796 G2a1c2a1b1b
+myalign
+          .          ^T 
+0.997762864 0.002237136 
+Row:  168 
+     chr      pos name            hg
+168 chrY 17147721  Z79 I2a2a1c1b1a1a
+myalign
+. 
+1 
+Row:  169 
+     chr      pos name hg
+169 chrY 17174741 L156 G2
+myalign
+          .           G 
+0.997975709 0.002024291 
+Row:  170 
+     chr      pos    name            hg
+170 chrY 17195548 CTS6919 R1b1a2a1a2c2a
+myalign
+          .           T 
+0.998130841 0.001869159 
+Row:  171 
+     chr      pos name      hg
+171 chrY 17274862 L264 J2a3h2b
+myalign
+          .         +1C         +1T 
+0.993939394 0.002020202 0.004040404 
+Row:  172 
+     chr      pos    name      hg
+172 chrY 17275047 CTS7083 R1a1a1a
+myalign
+. 
+1 
+Row:  173 
+     chr      pos name hg
+173 chrY 17309267 M353 M2
+myalign
+          .         +1A 
+0.996747967 0.003252033 
+Row:  174 
+     chr      pos name               hg
+174 chrY 17391560 S272 R1b1a2a1a1c2b2a1
+myalign
+         .          $         ^I 
+0.99592668 0.00203666 0.00203666 
+Row:  175 
+     chr      pos name        hg
+175 chrY 17423320 L497 G2a1c2a1b
+myalign
+          .           T 
+0.997777778 0.002222222 
+Row:  176 
+     chr      pos        name         hg
+176 chrY 17426117 DYS643-null E1b1b1a1b4
+myalign
+. 
+1 
+Row:  177 
+     chr      pos name       hg
+177 chrY 17436200 Z639 J2b2a1a1
+myalign
+. 
+1 
+Row:  178 
+     chr      pos name                   hg
+178 chrY 17441664 L148 R1b1a2a1a1c2b2a1a1a1
+myalign
+          .         +1A        -2TA 
+0.996323529 0.001838235 0.001838235 
+Row:  179 
+     chr      pos name           hg
+179 chrY 17473966 Z190 I2a2a1c1b1a1
+myalign
+. 
+1 
+Row:  180 
+     chr      pos name                hg
+180 chrY 17570849 L627 R1b1a2a1a2c1g2a1a
+myalign
+. 
+1 
+Row:  181 
+     chr      pos name          hg
+181 chrY 17585001 S205 R1a1a1b1a2a
+myalign
+          .         -1A         +1T 
+0.987146530 0.000856898 0.011996572 
+Row:  182 
+     chr      pos name    hg
+182 chrY 17595861 L198 J2a1i
+myalign
+          .           G 
+0.997854077 0.002145923 
+Row:  183 
+     chr      pos name hg
+183 chrY 17595874 L273 Q1
+myalign
+. 
+1 
+Row:  184 
+     chr      pos name    hg
+184 chrY 17661226 L331 Q1a3a
+myalign
+. 
+1 
+Row:  185 
+     chr      pos name       hg
+185 chrY 17661248 L963 A1b1a1a2
+myalign
+. 
+1 
+Row:  186 
+     chr      pos    name            hg
+186 chrY 17803237 CTS8030 E1b1a1a1f1a1d
+myalign
+          .           T 
+0.998058252 0.001941748 
+Row:  187 
+     chr      pos  name  hg
+187 chrY 17844001 F2613 C3f
+myalign
+. 
+1 
+Row:  188 
+     chr      pos name      hg
+188 chrY 17863355 Z140 I1a3a1a
+myalign
+          .          ^0 
+0.993710692 0.006289308 
+Row:  189 
+     chr      pos name  hg
+189 chrY 17891241  L62 R1a
+myalign
+. 
+1 
+Row:  190 
+     chr      pos  name           hg
+190 chrY 17937260 L1029 R1a1a1b1a1b1
+myalign
+          .           G 
+0.995951417 0.004048583 
+Row:  191 
+     chr      pos name        hg
+191 chrY 17937308 L662 G2a1c2a1d
+myalign
+          ^+            .          +1G 
+0.0005643341 0.9988713318 0.0005643341 
+Row:  192 
+     chr      pos name          hg
+192 chrY 17937365  L43 G2a1c2a1b1a
+myalign
+           .          +1G          +1T 
+0.9982332155 0.0011778563 0.0005889282 
+Row:  193 
+     chr      pos name          hg
+193 chrY 17947414 L792 E1b1b1b2a1d
+myalign
+          .           G 
+0.997959184 0.002040816 
+Row:  194 
+     chr      pos name             hg
+194 chrY 18028926 L563 R1b1a2a1a2c1i2
+myalign
+          .         +1A         +1C 
+0.995642702 0.002178649 0.002178649 
+Row:  195 
+     chr      pos name      hg
+195 chrY 18077011 L243 J2a1h2b
+myalign
+           .          +1A            A 
+0.9983050847 0.0008474576 0.0008474576 
+Row:  196 
+     chr      pos name       hg
+196 chrY 18077016  L70 J2a1h2a1
+myalign
+           .          -1A            C 
+0.9951597289 0.0038722168 0.0009680542 
+Row:  197 
+     chr      pos name  hg
+197 chrY 18146985 L732 N1b
+myalign
+. 
+1 
+Row:  198 
+     chr      pos name             hg
+198 chrY 18167479 Z278 R1b1a2a1a2a1a1
+myalign
+          .         +1C         -1T           G 
+0.996938776 0.001020408 0.001020408 0.001020408 
+Row:  199 
+     chr      pos name     hg
+199 chrY 18234588 S337 I1a3a1
+myalign
+          .         +1T 
+0.994117647 0.005882353 
+Row:  200 
+     chr      pos name          hg
+200 chrY 18393688 L640 G2a1c2a1c1a
+myalign
+          .         +1T 
+0.997336884 0.002663116 
+Row:  201 
+     chr      pos name               hg
+201 chrY 18393814  DF5 R1b1a2a1a2c1g2a1
+myalign
+          .           G 
+0.998106061 0.001893939 
+Row:  202 
+     chr      pos  name            hg
+202 chrY 18405605 L1280 R1a1a1b1a2b3c
+myalign
+          .         +1T 
+0.998425197 0.001574803 
+Row:  203 
+     chr      pos  name          hg
+203 chrY 18405788 L1198 I2a2a1c1b1a
+myalign
+. 
+1 
+Row:  204 
+     chr      pos name             hg
+204 chrY 18405864 S368 R1b1a2a1a2b1a2
+myalign
+. 
+1 
+Row:  205 
+     chr      pos name      hg
+205 chrY 18571026   M6 A1b1a1a
+myalign
+. 
+1 
+Row:  206 
+     chr      pos name            hg
+206 chrY 18656470 L371 R1b1a2a1a2c1h
+myalign
+. 
+1 
+Row:  207 
+     chr      pos name    hg
+207 chrY 18656508 P297 R1b1a
+myalign
+G 
+1 
+Row:  208 
+     chr      pos name hg
+208 chrY 18700150  L68 I2
+myalign
+           .          +1G            T 
+0.9974468085 0.0008510638 0.0017021277 
+Row:  209 
+     chr      pos name    hg
+209 chrY 18747405 P327 T1b1a
+myalign
+. 
+1 
+Row:  210 
+     chr      pos name     hg
+210 chrY 18760081 L621 I2a1b3
+myalign
+          .         +1A 
+0.998144712 0.001855288 
+Row:  211 
+     chr      pos name   hg
+211 chrY 18842841  KL1 O3a1
+myalign
+. 
+1 
+Row:  212 
+     chr      pos name   hg
+212 chrY 18843088 L733 N1b1
+myalign
+. 
+1 
+Row:  213 
+     chr      pos name  hg
+213 chrY 18887888 L597 I2c
+myalign
+         .          C 
+0.99718706 0.00281294 
+Row:  214 
+     chr      pos name   hg
+214 chrY 18914441 L278 R1b1
+myalign
+C 
+1 
+Row:  215 
+     chr      pos name            hg
+215 chrY 19047132 Z307 R1b1a2a1a1c1a
+myalign
+. 
+1 
+Row:  216 
+     chr      pos name              hg
+216 chrY 19048724 L226 R1b1a2a1a2c1f2a
+myalign
+         .        -1G        +1G          T 
+0.97413793 0.00862069 0.00862069 0.00862069 
+Row:  217 
+     chr      pos name hg
+217 chrY 19092559 M428 F2
+myalign
+. 
+1 
+Row:  218 
+     chr      pos name     hg
+218 chrY 19096363   M3 Q1a3a1
+myalign
+. 
+1 
+Row:  219 
+     chr      pos name     hg
+219 chrY 19136822  L25 J2a1h2
+myalign
+. 
+1 
+Row:  220 
+     chr      pos name  hg
+220 chrY 19136888 L275 Q1b
+myalign
+. 
+1 
+Row:  221 
+     chr      pos  name              hg
+221 chrY 19180465 Z2185 R1b1a2a1a2c1f2c
+myalign
+. 
+1 
+Row:  222 
+     chr      pos  name        hg
+222 chrY 19219721 Z1935 N1c1a1a2a
+myalign
+          .           $         +1T           G 
+0.996887967 0.001037344 0.001037344 0.001037344 
+Row:  223 
+     chr      pos name   hg
+223 chrY 19372808 L131 T1a2
+myalign
+. 
+1 
+Row:  224 
+     chr      pos name               hg
+224 chrY 19413266 Z275 R1b1a2a1a2b1a2a1
+myalign
+          .           G 
+0.997619048 0.002380952 
+Row:  225 
+     chr      pos name  hg
+225 chrY 19431608 L729 N1c
+myalign
+. 
+1 
+Row:  226 
+     chr      pos name hg
+226 chrY 20834667 M479 R2
+myalign
+. 
+1 
+Row:  227 
+     chr      pos name hg
+227 chrY 21083420 P147 E1
+myalign
+          .           A 
+0.001013171 0.998986829 
+Row:  228 
+     chr      pos name hg
+228 chrY 21165969 P263 K3
+myalign
+. 
+1 
+Row:  229 
+     chr      pos name          hg
+229 chrY 21253443 L238 R1b1a2a1a2d
+myalign
+. 
+1 
+Row:  230 
+     chr      pos name  hg
+230 chrY 21285962  PK4 O2a
+myalign
+         .        +1T 
+0.99789916 0.00210084 
+Row:  231 
+     chr      pos name        hg
+231 chrY 21286248 L550 N1c1a1a1a
+myalign
+. 
+1 
+Row:  232 
+     chr      pos name    hg
+232 chrY 21288655 Z139 I1a3b
+myalign
+. 
+1 
+Row:  233 
+     chr      pos  name  hg
+233 chrY 21288728 L1011 A0a
+myalign
+          .         +1G          ^Q 
+0.996742671 0.001628664 0.001628664 
+Row:  234 
+     chr      pos  name       hg
+234 chrY 21463326 Z1936 N1c1a1a2
+myalign
+          .         +1G 
+0.997326203 0.002673797 
+Row:  235 
+     chr      pos   name  hg
+235 chrY 21621191 Page18 B2a
+myalign
+. 
+1 
+Row:  236 
+     chr      pos name    hg
+236 chrY 21621564 P298 N1c1a
+myalign
+          .         +1T           T 
+0.993808050 0.003095975 0.003095975 
+Row:  237 
+     chr      pos   name  hg
+237 chrY 21622006 Page20 O1a
+myalign
+. 
+1 
+Row:  238 
+     chr      pos name      hg
+238 chrY 21628300  L90 G2a1c1a
+myalign
+. 
+1 
+Row:  239 
+     chr      pos name            hg
+239 chrY 21628667 L365 R1a1a1b1a2b3a
+myalign
+          .         +1C           C 
+0.993562232 0.004291845 0.002145923 
+Row:  240 
+     chr      pos name      hg
+240 chrY 21645348 P303 G2a1c2a
+myalign
+. 
+1 
+Row:  241 
+     chr      pos name     hg
+241 chrY 21645555  L91 G2a1b2
+myalign
+          .           $ 
+0.996515679 0.003484321 
+Row:  242 
+     chr      pos name          hg
+242 chrY 21646058 U290 E1b1a1a1g1a
+myalign
+          .         +1A         +1C           C          ^Z 
+0.990873533 0.001303781 0.001303781 0.005215124 0.001303781 
+Row:  243 
+     chr      pos  name        hg
+243 chrY 21646398 L1034 N1c1a1a2b
+myalign
+. 
+1 
+Row:  244 
+     chr      pos   name        hg
+244 chrY 21646675 Page27 E1b1a1a1a
+myalign
+A 
+1 
+Row:  245 
+     chr      pos    name     hg
+245 chrY 21646710 Page106 E1b1a1
+myalign
+         +1T            T 
+0.0008857396 0.9991142604 
+Row:  246 
+     chr      pos name  hg
+246 chrY 21674327 L559 J2a
+myalign
+          .           * 
+0.996240602 0.003759398 
+Row:  247 
+     chr      pos name               hg
+247 chrY 21706360 M153 R1b1a2a1a2a1a1a1
+myalign
+. 
+1 
+Row:  248 
+     chr      pos name   hg
+248 chrY 21712855 M138 H1a3
+myalign
+. 
+1 
+Row:  249 
+     chr      pos name      hg
+249 chrY 21716327 M133 O3a2c1a
+myalign
+          .         -1T         +1T       +3TTT 
+0.818181818 0.160427807 0.016042781 0.005347594 
+Row:  250 
+     chr      pos name     hg
+250 chrY 21716366 M158 J2a1h1
+myalign
+          .           T 
+0.994736842 0.005263158 
+Row:  251 
+     chr      pos name        hg
+251 chrY 21717227 M156 E1b1a1a1e
+myalign
+           .          +1A 
+0.9992887624 0.0007112376 
+Row:  252 
+     chr      pos name    hg
+252 chrY 21717472 M101 O1a1a
+myalign
+. 
+1 
+Row:  253 
+     chr      pos name      hg
+253 chrY 21717717 M129 B2b1a1b
+myalign
+. 
+1 
+Row:  254 
+     chr      pos name     hg
+254 chrY 21729827 L569 Q1a3a4
+myalign
+. 
+1 
+Row:  255 
+     chr      pos name     hg
+255 chrY 21729839  M28 A1b1b1
+myalign
+. 
+1 
+Row:  256 
+     chr      pos name     hg
+256 chrY 21733162  M18 R1b1c1
+myalign
+          .           C 
+0.996282528 0.003717472 
+Row:  257 
+     chr      pos name      hg
+257 chrY 21733231  M19 Q1a3a1a
+myalign
+          .         +1A           C 
+0.996659243 0.001113586 0.002227171 
+Row:  258 
+     chr      pos name        hg
+258 chrY 21736304  M58 E1b1a1a1a
+myalign
+A 
+1 
+Row:  259 
+     chr      pos name        hg
+259 chrY 21736331 M155 E1b1a1a1d
+myalign
+          .           A 
+0.997920998 0.002079002 
+Row:  260 
+     chr      pos name  hg
+260 chrY 21739646  M27 L1a
+myalign
+. 
+1 
+Row:  261 
+     chr      pos name hg
+261 chrY 21739651 L595 L2
+myalign
+. 
+1 
+Row:  262 
+     chr      pos name      hg
+262 chrY 21739815  M30 B2b1a1b
+myalign
+. 
+1 
+Row:  263 
+     chr      pos name            hg
+263 chrY 21739886   L4 R1b1a2a1a2b3a
+myalign
+          .         +1A 
+0.997701149 0.002298851 
+Row:  264 
+     chr      pos name      hg
+264 chrY 21740189 L296 I1a2c1a
+myalign
+. 
+1 
+Row:  265 
+     chr      pos name    hg
+265 chrY 21740436  M32 A1b1b
+myalign
+          .           C 
+0.998518519 0.001481481 
+Row:  266 
+     chr      pos name  hg
+266 chrY 21740450  M33 E1a
+myalign
+. 
+1 
+Row:  267 
+     chr      pos name         hg
+267 chrY 21740716  M34 E1b1b1b2a1
+myalign
+         .        +1C 
+0.99844479 0.00155521 
+Row:  268 
+     chr      pos  name     hg
+268 chrY 21741703 M35.1 E1b1b1
+myalign
+          .           A 
+0.998420221 0.001579779 
+Row:  269 
+     chr      pos name    hg
+269 chrY 21741755 M178 N1c1a
+myalign
+          .           $           T 
+0.997588909 0.001205546 0.001205546 
+Row:  270 
+     chr      pos  name    hg
+270 chrY 21742084 L1237 I1a4a
+myalign
+          .           $           G 
+0.997920998 0.001039501 0.001039501 
+Row:  271 
+     chr      pos name  hg
+271 chrY 21749881  M48 C3c
+myalign
+          .           G 
+0.998881432 0.001118568 
+Row:  272 
+     chr      pos name   hg
+272 chrY 21751009  M36 H1a1
+myalign
+           .            C            G 
+0.9981617647 0.0009191176 0.0009191176 
+Row:  273 
+     chr      pos name    hg
+273 chrY 21751330  M47 J2a1a
+myalign
+          .         +1A 
+0.997159091 0.002840909 
+Row:  274 
+     chr      pos name    hg
+274 chrY 21751440 M159 O3a2a
+myalign
+          .           G 
+0.998080614 0.001919386 
+Row:  275 
+     chr      pos name   hg
+275 chrY 21752644  M44 E1a1
+myalign
+. 
+1 
+Row:  276 
+     chr      pos name hg
+276 chrY 21753199  M52 H1
+myalign
+          .         +1G 
+0.994764398 0.005235602 
+Row:  277 
+     chr      pos name    hg
+277 chrY 21757306 M164 O3a1b
+myalign
+. 
+1 
+Row:  278 
+     chr      pos name   hg
+278 chrY 21759138  M77 C3c1
+myalign
+          .         +1A 
+0.996407186 0.003592814 
+Row:  279 
+     chr      pos name  hg
+279 chrY 21762685 M119 O1a
+myalign
+          .         -1A         +1A 
+0.989821883 0.007633588 0.002544529 
+Row:  280 
+     chr      pos name       hg
+280 chrY 21763755 L801 I2a2a1c1
+myalign
+. 
+1 
+Row:  281 
+     chr      pos name       hg
+281 chrY 21763965 M118 A1b1b2b1
+myalign
+. 
+1 
+Row:  282 
+     chr      pos name        hg
+282 chrY 21764458 M137 J2a1h2a1a
+myalign
+          .         +1T 
+0.997714286 0.002285714 
+Row:  283 
+     chr      pos name     hg
+283 chrY 21764500 M281 E1b1b2
+myalign
+          .           T 
+0.997757848 0.002242152 
+Row:  284 
+     chr      pos name        hg
+284 chrY 21764586 M123 E1b1b1b2a
+myalign
+. 
+1 
+Row:  285 
+     chr      pos name hg
+285 chrY 21764674 M122 O3
+myalign
+. 
+1 
+Row:  286 
+     chr      pos name     hg
+286 chrY 21764694 M166 J2a1b2
+myalign
+          .         +1A         +1G         -1T         +1T        +2CT 
+0.987096774 0.002150538 0.002150538 0.004301075 0.002150538 0.002150538 
+Row:  287 
+     chr      pos   name  hg
+287 chrY 21765281 M116.1 D2a
+myalign
+. 
+1 
+Row:  288 
+     chr      pos name        hg
+288 chrY 21765763 M114 A1b1a1a2a
+myalign
+          .           G           T 
+0.996923077 0.002051282 0.001025641 
+Row:  289 
+     chr      pos name      hg
+289 chrY 21766310 M115 B2b1a1a
+myalign
+          .         +1T           A 
+0.993478261 0.002173913 0.004347826 
+Row:  290 
+     chr      pos name  hg
+290 chrY 21767959 M112 B2b
+myalign
+. 
+1 
+Row:  291 
+     chr      pos name           hg
+291 chrY 21842521 L881 R1b1a2a1a2a3
+myalign
+          .         +1C 
+0.998449612 0.001550388 
+Row:  292 
+     chr      pos name     hg
+292 chrY 21843942 L570 Q1a3a4
+myalign
+. 
+1 
+Row:  293 
+     chr      pos name    hg
+293 chrY 21844311 P328 T1a2a
+myalign
+. 
+1 
+Row:  294 
+     chr      pos name          hg
+294 chrY 21866675 M165 E1b1b1b1a2a
+myalign
+          .           G          ^Y 
+0.997867804 0.001066098 0.001066098 
+Row:  295 
+     chr      pos name    hg
+295 chrY 21867718 M323 Q1a3b
+myalign
+          .         +1G 
+0.995525727 0.004474273 
+Row:  296 
+     chr      pos name   hg
+296 chrY 21868672  M50 O1a2
+myalign
+          .           $ 
+0.991489362 0.008510638 
+Row:  297 
+     chr      pos name  hg
+297 chrY 21869264  M54 E2b
+myalign
+. 
+1 
+Row:  298 
+     chr      pos name  hg
+298 chrY 21869519 M150 B2a
+myalign
+          .           *         +1A         -1G         +1G 
+0.994075829 0.001184834 0.001184834 0.001184834 0.002369668 
+Row:  299 
+     chr      pos name    hg
+299 chrY 21873287  M83 M1b1b
+myalign
+. 
+1 
+Row:  300 
+     chr      pos name     hg
+300 chrY 21878699 M340 J2a2a1
+myalign
+           .          +1A 
+0.9990375361 0.0009624639 
+Row:  301 
+     chr      pos name    hg
+301 chrY 21878700  M68 J2a1c
+myalign
+          ^~            .          +1C 
+0.0009319664 0.9981360671 0.0009319664 
+Row:  302 
+     chr      pos name    hg
+302 chrY 21878809  M67 J2a1b
+myalign
+. 
+1 
+Row:  303 
+     chr      pos name          hg
+303 chrY 21878825 M290 E1b1b1b2a1b
+myalign
+. 
+1 
+Row:  304 
+     chr      pos name hg
+304 chrY 21890177  M75 E2
+myalign
+          .         +1A         -1T 
+0.989898990 0.007575758 0.002525253 
+Row:  305 
+     chr      pos name        hg
+305 chrY 21892572  M81 E1b1b1b1a
+myalign
+        .       +1T 
+0.9675174 0.0324826 
+Row:  306 
+     chr      pos name     hg
+306 chrY 21892626 L258 I1a2c1
+myalign
+          .         +1A 
+0.998883929 0.001116071 
+Row:  307 
+     chr      pos name   hg
+307 chrY 21892634 M151 D2a2
+myalign
+           .          +1T 
+0.9990253411 0.0009746589 
+Row:  308 
+     chr      pos name          hg
+308 chrY 21892677 M154 E1b1a1a1g1c
+myalign
+           .            C 
+0.9990982867 0.0009017133 
+Row:  309 
+     chr      pos name    hg
+309 chrY 21892756 L300 I1a2d
+myalign
+. 
+1 
+Row:  310 
+     chr      pos name         hg
+310 chrY 21893299 M224 E1b1b1a1a1
+myalign
+          .           C 
+0.996732026 0.003267974 
+Row:  311 
+     chr      pos name       hg
+311 chrY 21893303  M78 E1b1b1a1
+myalign
+. 
+1 
+Row:  312 
+     chr      pos name           hg
+312 chrY 21893753 M136 E1b1b1b2a1a1
+myalign
+          .         -1G 
+0.996941896 0.003058104 
+Row:  313 
+     chr      pos name  hg
+313 chrY 21893881  M70 T1a
+myalign
+          .           G 
+0.997343958 0.002656042 
+Row:  314 
+     chr      pos name hg
+314 chrY 21894058  M69  H
+myalign
+          .         -1A         +1G 
+0.981132075 0.014150943 0.004716981 
+Row:  315 
+     chr      pos name    hg
+315 chrY 21894407  M72 I1a1a
+myalign
+          .         +1C         -1G        +2AC        +2CG           G 
+0.989031079 0.001828154 0.001828154 0.001828154 0.001828154 0.003656307 
+Row:  316 
+     chr      pos name              hg
+316 chrY 21896078 L643 R1b1a2a1a2c1f2b
+myalign
+. 
+1 
+Row:  317 
+     chr      pos name         hg
+317 chrY 21896093 M148 E1b1b1a1c1
+myalign
+. 
+1 
+Row:  318 
+     chr      pos name         hg
+318 chrY 21896200  V19 E1b1b1a1c2
+myalign
+          .           $         -1A         +1A 
+0.986547085 0.002242152 0.006726457 0.004484305 
+Row:  319 
+     chr      pos name   hg
+319 chrY 21896216  M85 E2b1
+myalign
+         ^`           . 
+0.001501502 0.998498498 
+Row:  320 
+     chr      pos name        hg
+320 chrY 21896248 M149 E1b1a1a1c
+myalign
+. 
+1 
+Row:  321 
+     chr      pos name    hg
+321 chrY 21900849  M88 O2a1a
+myalign
+         .        +1T          G 
+0.99484536 0.00257732 0.00257732 
+Row:  322 
+     chr      pos name  hg
+322 chrY 21902505  M93 C3a
+myalign
+. 
+1 
+Row:  323 
+     chr      pos name      hg
+323 chrY 21902618 P101 O3a2c1b
+myalign
+. 
+1 
+Row:  324 
+     chr      pos name     hg
+324 chrY 21904023  M92 J2a1b1
+myalign
+          .         +1G           C 
+0.997054492 0.001472754 0.001472754 
+Row:  325 
+     chr      pos name   hg
+325 chrY 21905917  M86 C3c1
+myalign
+. 
+1 
+Row:  326 
+     chr      pos name   hg
+326 chrY 21907097 M110 O1a2
+myalign
+          .           C 
+0.997159091 0.002840909 
+Row:  327 
+     chr      pos name   hg
+327 chrY 21907394 M120 Q1a1
+myalign
+          .         +1C 
+0.997382199 0.002617801 
+Row:  328 
+     chr      pos name  hg
+328 chrY 21926112 M102 J2b
+myalign
+. 
+1 
+Row:  329 
+     chr      pos  name   hg
+329 chrY 21926143 L1255 T1a3
+myalign
+          .           $         +1A 
+0.992094862 0.003952569 0.003952569 
+Row:  330 
+     chr      pos name    hg
+330 chrY 21930113 L682 O2b1b
+myalign
+         .          C 
+0.99543379 0.00456621 
+Row:  331 
+     chr      pos name   hg
+331 chrY 21930287 M125 D2a1
+myalign
+          .         +1C 
+0.998422713 0.001577287 
+Row:  332 
+     chr      pos name             hg
+332 chrY 21930315 L165 R1b1a2a1a2a1b2
+myalign
+. 
+1 
+Row:  333 
+     chr      pos name         hg
+333 chrY 21931638 M107 E1b1b1b1a1
+myalign
+          .         +1T 
+0.998870056 0.001129944 
+Row:  334 
+     chr      pos name         hg
+334 chrY 22157311 P312 R1b1a2a1a2
+myalign
+C 
+1 
+Row:  335 
+     chr      pos name             hg
+335 chrY 22178569  L47 R1b1a2a1a1c2b1
+myalign
+          .         +1C         +1T 
+0.997308210 0.001345895 0.001345895 
+Row:  336 
+     chr      pos name       hg
+336 chrY 22725065 L397 J2a1h2a1
+myalign
+. 
+1 
+Row:  337 
+     chr      pos name    hg
+337 chrY 22737801 M274 L1b1b
+myalign
+          .           G 
+0.996677741 0.003322259 
+Row:  338 
+     chr      pos name hg
+338 chrY 22741740 M285 G1
+myalign
+           .            T 
+0.9990557129 0.0009442871 
+Row:  339 
+     chr      pos name     hg
+339 chrY 22741799 M286 G2a1b1
+myalign
+. 
+1 
+Row:  340 
+     chr      pos name        hg
+340 chrY 22744939 M293 E1b1b1b2b
+myalign
+          .         -1C        +2TA           C 
+0.993883792 0.002038736 0.001019368 0.003058104 
+Row:  341 
+     chr      pos name        hg
+341 chrY 22744993 M318 J2a1h2a1b
+myalign
+. 
+1 
+Row:  342 
+     chr      pos  name          hg
+342 chrY 22750842 L1027 N1c1a1a1a1c
+myalign
+         .          C 
+0.99599466 0.00400534 
+Row:  343 
+     chr      pos name   hg
+343 chrY 22752711 M312 O2b1
+myalign
+          .           C           G 
+0.996093750 0.001953125 0.001953125 
+Row:  344 
+     chr      pos name      hg
+344 chrY 22917995  L14 G2a1c1a
+myalign
+          .           T 
+0.997122302 0.002877698 
+Row:  345 
+     chr      pos name   hg
+345 chrY 22942897  L26 J2a1
+myalign
+          .           $           *         +1G          ^R 
+0.994929006 0.002028398 0.001014199 0.001014199 0.001014199 
+Row:  346 
+     chr      pos name     hg
+346 chrY 22974783 L839 N1c1a1
+myalign
+         .          G 
+0.99047619 0.00952381 
+Row:  347 
+     chr      pos name   hg
+347 chrY 23021978  L27 J2a1
+myalign
+. 
+1 
+Row:  348 
+     chr      pos name  hg
+348 chrY 23244026  P15 G2a
+myalign
+           .            $          +1G 
+0.9985704074 0.0007147963 0.0007147963 
+Row:  349 
+     chr      pos     name          hg
+349 chrY 23383729 CTS11962 R1a1a1b1a1b
+myalign
+          .         -1T         +1T 
+0.997874601 0.001062699 0.001062699 
+Row:  350 
+     chr      pos name hg
+350 chrY 23496331  Apt H2
+myalign
+          .           T 
+0.997679814 0.002320186 
+Row:  351 
+     chr      pos    name   hg
+351 chrY 23497067 50f2(P) B2b1
+myalign
+. 
+1 
+Row:  352 
+     chr      pos name     hg
+352 chrY 23549365 P8_1 B2b1a2
+myalign
+         .          A 
+0.99795082 0.00204918 
+Row:  353 
+     chr      pos name            hg
+353 chrY 23627289 S483 R1b1a2a1a2b3c
+myalign
+. 
+1 
+Row:  354 
+     chr      pos   name            hg
+354 chrY 23627289 PF6584 R1b1a2a1a2b3c
+myalign
+. 
+1 
+Row:  355 
+     chr      pos name              hg
+355 chrY 23973367 Z326 R1b1a2a1a1c2b2b
+myalign
+. 
+1 
+Row:  356 
+     chr      pos name        hg
+356 chrY 23989677 P268 E1b1a1a1h
+myalign
+. 
+1 
+Row:  357 
+     chr      pos name        hg
+357 chrY 23989678 P269 E1b1a1a1h
+myalign
+. 
+1 
+Row:  358 
+     chr      pos name      hg
+358 chrY 23989884 L166 G2a1b2a
+myalign
+. 
+1 
+Row:  359 
+     chr      pos name      hg
+359 chrY 23989903 L167 G2a1b2a
+myalign
+. 
+1 
+Row:  360 
+     chr      pos name         hg
+360 chrY 24366464 M458 R1a1a1b1a1
+myalign
+          .           G 
+0.997333333 0.002666667 
+Row:  361 
+     chr      pos          name    hg
+361 chrY 24464597 IMS-JST022457 D2a1b
+myalign
+          .           $ 
+0.998454405 0.001545595 
+Row:  362 
+     chr      pos          name   hg
+362 chrY 24471706 IMS-JST022456 D2a4
+myalign
+         .        +1A          T 
+0.99218750 0.00390625 0.00390625 
+Row:  363 
+     chr      pos  name  hg
+363 chrY 24567120 P34_5 M1a
+myalign
+          .           G 
+0.991525424 0.008474576 
+Row:  364 
+     chr      pos name      hg
+364 chrY 26418847 L576 E1b1a1a
+myalign
+        .         A 
+0.4910515 0.5089485 
+Row:  365 
+     chr     pos name  hg
+365 chrY 2655180 M176 O2b
+myalign
+          .         +1A         +1C           C 
+0.995994660 0.001335113 0.001335113 0.001335113 
+Row:  366 
+     chr     pos  name  hg
+366 chrY 2656959 L1233 A00
+myalign
+. 
+1 
+Row:  367 
+     chr     pos     name hg
+367 chrY 2657176 Page65.1 BT
+myalign
+. 
+1 
+Row:  368 
+     chr     pos name              hg
+368 chrY 2658271 M167 R1b1a2a1a2a1b1a
+myalign
+. 
+1 
+Row:  369 
+     chr     pos name    hg
+369 chrY 2658285 L201 G1a1a
+myalign
+. 
+1 
+Row:  370 
+     chr     pos name  hg
+370 chrY 2658869 M177 M2a
+myalign
+. 
+1 
+Row:  371 
+     chr     pos name hg
+371 chrY 2661836 P307 K2
+myalign
+. 
+1 
+Row:  372 
+     chr     pos   name     hg
+372 chrY 2668456 PF6399 R1b1a2
+myalign
+C 
+1 
+Row:  373 
+     chr     pos name       hg
+373 chrY 2710013 L335 E1b1b1b1
+myalign
+          .         +1G 
+0.997983871 0.002016129 
+Row:  374 
+     chr     pos   name    hg
+374 chrY 2731887 CTS107 D2a1b
+myalign
+          .         +1T 
+0.997237569 0.002762431 
+Row:  375 
+     chr     pos name hg
+375 chrY 2734854 M130  C
+myalign
+. 
+1 
+Row:  376 
+     chr     pos name hg
+376 chrY 2744628   M4 M1
+myalign
+. 
+1 
+Row:  377 
+     chr     pos name     hg
+377 chrY 2749995 M406 G2a1c1
+myalign
+. 
+1 
+Row:  378 
+     chr     pos name    hg
+378 chrY 2750408 M407 C3f1a
+myalign
+. 
+1 
+Row:  379 
+     chr     pos name  hg
+379 chrY 2751678 M410 J2a
+myalign
+          .           G 
+0.998470948 0.001529052 
+Row:  380 
+     chr     pos name    hg
+380 chrY 2800714 V221 A1b-T
+myalign
+         .        -1T        +1T 
+0.94186047 0.03488372 0.02325581 
+Row:  381 
+     chr     pos          name hg
+381 chrY 2803297 IMS-JST029149  C
+myalign
+. 
+1 
+Row:  382 
+     chr     pos name       hg
+382 chrY 2819161 Z631 J2b2a1a1
+myalign
+. 
+1 
+Row:  383 
+     chr     pos name  hg
+383 chrY 2821786 M324 O3a
+myalign
+. 
+1 
+Row:  384 
+     chr     pos          name   hg
+384 chrY 2828196 IMS-JST021354 O3a2
+myalign
+        .       -1G 
+0.9790795 0.0209205 
+Row:  385 
+     chr     pos          name hg
+385 chrY 2828425 IMS-JST021355  D
+myalign
+. 
+1 
+Row:  386 
+     chr     pos name           hg
+386 chrY 2836431 DF13 R1b1a2a1a2c1
+myalign
+. 
+1 
+Row:  387 
+     chr     pos  name      hg
+387 chrY 2842212 L49.1 R1b1a2a
+myalign
+         G          T 
+0.00456621 0.99543379 
+Row:  388 
+     chr     pos name hg
+388 chrY 2842214 L138  P
+myalign
+          .         +1A           A 
+0.003003003 0.006006006 0.990990991 
+Row:  389 
+     chr      pos name            hg
+389 chrY 28462237  Z49 R1b1a2a1a2b1c
+myalign
+           .          +1A 
+0.9991638796 0.0008361204 
+Row:  390 
+     chr     pos   name hg
+390 chrY 2846401 Page94  G
+myalign
+          .           T 
+0.996794872 0.003205128 
+Row:  391 
+     chr     pos name  hg
+391 chrY 2863367 V204 A1a
+myalign
+         ^(           . 
+0.001831502 0.998168498 
+Row:  392 
+     chr     pos name hg
+392 chrY 2863466 L770  G
+myalign
+          .         -1T 
+0.998544396 0.001455604 
+Row:  393 
+     chr     pos name                hg
+393 chrY 2867288 L477 R1b1a2a1a1c2b1a1a
+myalign
+          .         -1A 
+0.998039216 0.001960784 
+Row:  394 
+     chr     pos name     hg
+394 chrY 2875527 M329 E1b1a2
+myalign
+          .           $ 
+0.998368679 0.001631321 
+Row:  395 
+     chr     pos name           hg
+395 chrY 2883986 DF63 R1b1a2a1a2c2
+myalign
+          .         +1G           C 
+0.995918367 0.002040816 0.002040816 
+Row:  396 
+     chr     pos name   hg
+396 chrY 2887156 M346 Q1a3
+myalign
+. 
+1 
+Row:  397 
+     chr     pos  name   hg
+397 chrY 2887280 L1089 A0-T
+myalign
+          .           T 
+0.997311828 0.002688172 
+Row:  398 
+     chr     pos name     hg
+398 chrY 2887384 L191 Q1a3a2
+myalign
+. 
+1 
+Row:  399 
+     chr     pos name hg
+399 chrY 2888203 M356 C5
+myalign
+         .        +1T 
+0.99864682 0.00135318 
+Row:  400 
+     chr     pos name  hg
+400 chrY 2888252 M357 L1c
+myalign
+          .        -2CA 
+0.998062016 0.001937984 
+Row:  401 
+     chr     pos name hg
+401 chrY 2888598 M370  H
+myalign
+          .           $           T 
+0.997340426 0.001329787 0.001329787 
+Row:  402 
+     chr     pos name    hg
+402 chrY 2888632 L294 R2a1a
+myalign
+. 
+1 
+Row:  403 
+     chr     pos name              hg
+403 chrY 2892150  L44 R1b1a2a1a1c2b1a
+myalign
+. 
+1 
+Row:  404 
+     chr     pos  name     hg
+404 chrY 2911033 Z1101 E1b1a1
+myalign
+          .           A 
+0.002141328 0.997858672 
+Row:  405 
+     chr     pos  name  hg
+405 chrY 3436657 L1036 A0b
+myalign
+. 
+1 
+Row:  406 
+     chr     pos name hg
+406 chrY 3545070 P212  I
+myalign
+          .           C 
+0.998671979 0.001328021 
+Row:  407 
+     chr     pos name hg
+407 chrY 3545172 P204  S
+myalign
+. 
+1 
+Row:  408 
+     chr     pos name                 hg
+408 chrY 4567631   Z1 R1b1a2a1a1c2b2a1a2
+myalign
+          .           C 
+0.997319035 0.002680965 
+Row:  409 
+     chr     pos name      hg
+409 chrY 4780599 L556 J2a1b1a
+myalign
+. 
+1 
+Row:  410 
+     chr     pos name   hg
+410 chrY 4840884 V341 B2b2
+myalign
+          .         +1C           G 
+0.996202532 0.001265823 0.002531646 
+Row:  411 
+     chr     pos name    hg
+411 chrY 4862725 V169 A0a1a
+myalign
+          .         -1T 
+0.998023715 0.001976285 
+Row:  412 
+     chr     pos   name    hg
+412 chrY 4862861 PF6279 R1b1c
+myalign
+          .           T 
+0.997757848 0.002242152 
+Row:  413 
+     chr     pos name      hg
+413 chrY 4873798  V92 E1b1b1d
+myalign
+. 
+1 
+Row:  414 
+     chr     pos name  hg
+414 chrY 4874269 L655 L1b
+myalign
+     .      T 
+0.9875 0.0125 
+Row:  415 
+     chr     pos name   hg
+415 chrY 4898665 V171 A1-T
+myalign
+         .          $        +1T          A 
+0.99426112 0.00143472 0.00286944 0.00143472 
+Row:  416 
+     chr     pos  name        hg
+416 chrY 4900098 L1022 N1c1a1a1b
+myalign
+          .           $ 
+0.990123457 0.009876543 
+Row:  417 
+     chr     pos name           hg
+417 chrY 4902514 L784 R1a1a1b1a2b2
+myalign
+. 
+1 
+Row:  418 
+     chr     pos name  hg
+418 chrY 4925637 MEH2 Q1a
+myalign
+. 
+1 
+Row:  419 
+     chr     pos name   hg
+419 chrY 4929885 L295 R2a1
+myalign
+          .         +1A         -1T 
+0.995961228 0.002423263 0.001615509 
+Row:  420 
+     chr     pos name   hg
+420 chrY 4957608 V174 A1-T
+myalign
+. 
+1 
+Row:  421 
+     chr     pos name           hg
+421 chrY 4961118 S206 R1b1a2a1a2b2
+myalign
+. 
+1 
+Row:  422 
+     chr     pos  name      hg
+422 chrY 5274925 L1248 I1a3a1d
+myalign
+          .           G 
+0.997750281 0.002249719 
+Row:  423 
+     chr     pos name     hg
+423 chrY 5274968  V95 E1b1a1
+myalign
+           .          -1T          +1T            G 
+0.2451440054 0.0013395847 0.0006697924 0.7528466175 
+Row:  424 
+     chr     pos name          hg
+424 chrY 5275051 L459 R1b1a2a1a2c
+myalign
+         ^!           .           *         +1G 
+0.000739645 0.997781065 0.000739645 0.000739645 
+Row:  425 
+     chr     pos name    hg
+425 chrY 5675090 L245 Q1b1a
+myalign
+          .         -1A         +1A         +1G         +1T           T 
+0.977995110 0.009779951 0.004889976 0.002444988 0.002444988 0.002444988 
+Row:  426 
+     chr     pos name hg
+426 chrY 6000464 P162  E
+myalign
+C 
+1 
+Row:  427 
+     chr     pos name         hg
+427 chrY 6229881 S466 R1a1a1b1a2
+myalign
+           .          +1T            T 
+0.9978401728 0.0007199424 0.0014398848 
+Row:  428 
+     chr     pos name    hg
+428 chrY 6345148 L223 G2a1b
+myalign
+          .         +1T 
+0.996268657 0.003731343 
+Row:  429 
+     chr     pos name    hg
+429 chrY 6659212 L905 T1a1a
+myalign
+. 
+1 
+Row:  430 
+     chr     pos name hg
+430 chrY 6677619 S107 I1
+myalign
+           .          +1A          +1C 
+0.9984251969 0.0007874016 0.0007874016 
+Row:  431 
+     chr     pos name hg
+431 chrY 6681479 S108 I1
+myalign
+. 
+1 
+Row:  432 
+     chr     pos          name     hg
+432 chrY 6736154 IMS-JST006841 D2a1b2
+myalign
+          .         +1G        +2TG 
+0.989247312 0.007168459 0.003584229 
+Row:  433 
+     chr     pos name    hg
+433 chrY 6736443 L208 T1a1a
+myalign
+. 
+1 
+Row:  434 
+     chr     pos  name hg
+434 chrY 6736812 Page1 M1
+myalign
+          .         +1T 
+0.997555012 0.002444988 
+Row:  435 
+     chr     pos   name          hg
+435 chrY 6738741 CTS417 G2a1c2a1a1a
+myalign
+. 
+1 
+Row:  436 
+     chr     pos name  hg
+436 chrY 6739738 P266 H2b
+myalign
+          .           C 
+0.998846597 0.001153403 
+Row:  437 
+     chr     pos name  hg
+437 chrY 6739772  P83 S1c
+myalign
+. 
+1 
+Row:  438 
+     chr     pos name             hg
+438 chrY 6740171 P113 E1b1a1a1f1a1c1
+myalign
+          .         +1G 
+0.999001996 0.000998004 
+Row:  439 
+     chr     pos name hg
+439 chrY 6740377  P79 K2
+myalign
+. 
+1 
+Row:  440 
+     chr     pos name       hg
+440 chrY 6740387  P78 I2a2a1b1
+myalign
+          .         +1A           A 
+0.990842491 0.007326007 0.001831502 
+Row:  441 
+     chr     pos name             hg
+441 chrY 6788390 S268 R1b1a2a1a1c2b2
+myalign
+          .         +1G 
+0.998496241 0.001503759 
+Row:  442 
+     chr     pos name     hg
+442 chrY 6812012  V35 R1b1c2
+myalign
+. 
+1 
+Row:  443 
+     chr     pos   name        hg
+443 chrY 6814246 PF2210 E1b1b1a1b
+myalign
+. 
+1 
+Row:  444 
+     chr     pos       name    hg
+444 chrY 6818291 TSC0077541 E1b1a
+myalign
+          .         +1T           T 
+0.001863933 0.001863933 0.996272134 
+Row:  445 
+     chr     pos name        hg
+445 chrY 6822948 M521 E1b1b1a1e
+myalign
+         .        +1G        +1T 
+0.99112426 0.00591716 0.00295858 
+Row:  446 
+     chr     pos name        hg
+446 chrY 6823099  V12 E1b1b1a1a
+myalign
+          .          ^0 
+0.997635934 0.002364066 
+Row:  447 
+     chr     pos name         hg
+447 chrY 6835545 Z724 G2a1c2a1c1
+myalign
+. 
+1 
+Row:  448 
+     chr     pos name    hg
+448 chrY 6845936  V50 A1b1a
+myalign
+. 
+1 
+Row:  449 
+     chr     pos name hg
+449 chrY 6845955  V20 C6
+myalign
+           .          +1C 
+0.9990356798 0.0009643202 
+Row:  450 
+     chr     pos name     hg
+450 chrY 6851471  V16 E1b1b2
+myalign
+. 
+1 
+Row:  451 
+     chr     pos name     hg
+451 chrY 6859963 L227 J2a1b3
+myalign
+. 
+1 
+Row:  452 
+     chr     pos name          hg
+452 chrY 6860272  V23 E1b1b1b2a1c
+myalign
+          .           $ 
+0.996865204 0.003134796 
+Row:  453 
+     chr     pos name  hg
+453 chrY 6863908 L830 G1b
+myalign
+           .          +1C            C 
+0.9970119522 0.0019920319 0.0009960159 
+Row:  454 
+     chr     pos name hg
+454 chrY 6868118   S9  R
+myalign
+G 
+1 
+Row:  455 
+     chr     pos name hg
+455 chrY 6885788 L878  L
+myalign
+           .          +1T            G 
+0.9985642498 0.0007178751 0.0007178751 
+Row:  456 
+     chr     pos   name      hg
+456 chrY 6893093 Page77 A1b1b2b
+myalign
+         .          G 
+0.99898167 0.00101833 
+Row:  457 
+     chr     pos name   hg
+457 chrY 6894187 L981 A0a2
+myalign
+          .           $ 
+0.998482549 0.001517451 
+Row:  458 
+     chr     pos name         hg
+458 chrY 6896051  V27 E1b1b1a1b1
+myalign
+          .          ^V 
+0.996710526 0.003289474 
+Row:  459 
+     chr     pos name   hg
+459 chrY 6906074 M459 R1a1
+myalign
+          .           G 
+0.998950682 0.001049318 
+Row:  460 
+     chr     pos   name     hg
+460 chrY 6907838 PF1365 A1b1b2
+myalign
+. 
+1 
+Row:  461 
+     chr     pos  name    hg
+461 chrY 6909339 L1323 G1a1b
+myalign
+. 
+1 
+Row:  462 
+     chr     pos   name    hg
+462 chrY 6931700 L529.1 Q1a3c
+myalign
+          .           C 
+0.998313659 0.001686341 
+Row:  463 
+     chr     pos name          hg
+463 chrY 6931809 L448 R1a1a1b1a3a
+myalign
+          .          ^R 
+0.994413408 0.005586592 
+Row:  464 
+     chr     pos name      hg
+464 chrY 6932007   V6 E1b1b1c
+myalign
+          .           A 
+0.997419355 0.002580645 
+Row:  465 
+     chr     pos name        hg
+465 chrY 6932148 P262 A1b1a1a2b
+myalign
+. 
+1 
+Row:  466 
+     chr     pos name   hg
+466 chrY 6932199 L133 E1a4
+myalign
+          .         +1C           A 
+0.997792494 0.001103753 0.001103753 
+Row:  467 
+     chr     pos name    hg
+467 chrY 6932663 L283 J2b2a
+myalign
+. 
+1 
+Row:  468 
+     chr     pos name         hg
+468 chrY 6932821  V32 E1b1b1a1a2
+myalign
+. 
+1 
+Row:  469 
+     chr     pos name hg
+469 chrY 6932824 L279 F3
+myalign
+         .          A 
+0.98701299 0.01298701 
+Row:  470 
+     chr     pos  name    hg
+470 chrY 6933056 L1289 A0a1b
+myalign
+. 
+1 
+Row:  471 
+     chr     pos name hg
+471 chrY 6941218 P141  F
+myalign
+G 
+1 
+Row:  472 
+     chr     pos name   hg
+472 chrY 6951904 L983 A0a2
+myalign
+. 
+1 
+Row:  473 
+     chr     pos   name     hg
+473 chrY 6954470 Page71 A1b1a1
+myalign
+          .           T 
+0.998668442 0.001331558 
+Row:  474 
+     chr     pos name  hg
+474 chrY 7014317 L472 Q1a
+myalign
+. 
+1 
+Row:  475 
+     chr     pos name hg
+475 chrY 7171834 L321 J1
+myalign
+. 
+1 
+Row:  476 
+     chr     pos name  hg
+476 chrY 7173143  L16 IJK
+myalign
+G 
+1 
+Row:  477 
+     chr     pos name            hg
+477 chrY 7193034 S218 R1b1a2a1a2c1f
+myalign
+        .         * 
+0.7746479 0.2253521 
+Row:  478 
+     chr     pos name hg
+478 chrY 7218079 P142  F
+myalign
+G 
+1 
+Row:  479 
+     chr     pos name hg
+479 chrY 7235368 P304 K1
+myalign
+. 
+1 
+Row:  480 
+     chr     pos   name     hg
+480 chrY 7235379 Page50 A1b1b2
+myalign
+. 
+1 
+Row:  481 
+     chr     pos name          hg
+481 chrY 7246726 S263 R1b1a2a1a1c
+myalign
+. 
+1 
+Row:  482 
+     chr     pos    name      hg
+482 chrY 7290454 CTS1243 E1b1b1b
+myalign
+          .         +1T 
+0.997382199 0.002617801 
+Row:  483 
+     chr     pos name hg
+483 chrY 7291534   M8 C1
+myalign
+          .           A 
+0.998756219 0.001243781 
+Row:  484 
+     chr     pos name hg
+484 chrY 7292720  S34  J
+myalign
+         .          $ 
+0.99870801 0.00129199 
+Row:  485 
+     chr     pos name hg
+485 chrY 7332132 P183 DE
+myalign
+T 
+1 
+Row:  486 
+     chr     pos name              hg
+486 chrY 7400278 L163 R1b1a2a1a1c2b1a
+myalign
+. 
+1 
+Row:  487 
+     chr     pos name   hg
+487 chrY 7401836 P178 E1b1
+myalign
+         .          A 
+0.00130719 0.99869281 
+Row:  488 
+     chr     pos             name  hg
+488 chrY 7527930 IMS-JST002613-27 C3g
+myalign
+. 
+1 
+Row:  489 
+     chr     pos name      hg
+489 chrY 7530813 Z141 I1a3a1a
+myalign
+         .        +1T 
+0.99882904 0.00117096 
+Row:  490 
+     chr     pos          name    hg
+490 chrY 7546726 IMS-JST002611 O3a1c
+myalign
+         ^)           . 
+0.001104972 0.998895028 
+Row:  491 
+     chr     pos name       hg
+491 chrY 7552356 S202 R1a1a1b2
+myalign
+. 
+1 
+Row:  492 
+     chr     pos name hg
+492 chrY 7568568 P186  O
+myalign
+          .         -1A         +1A         +1G           T 
+0.986559140 0.005376344 0.002688172 0.002688172 0.002688172 
+Row:  493 
+     chr     pos name   hg
+493 chrY 7570816 L666 N1c2
+myalign
+          .         +1T 
+0.996904025 0.003095975 
+Row:  494 
+     chr     pos name hg
+494 chrY 7570822 P294 R1
+myalign
+G 
+1 
+Row:  495 
+     chr     pos name             hg
+495 chrY 7592433 L744 R1b1a2a1a2c1i1
+myalign
+          .         -1A         +1A 
+0.956321839 0.041379310 0.002298851 
+Row:  496 
+     chr     pos  name   hg
+496 chrY 7593759 L1069 R2a3
+myalign
+         ^=           . 
+0.004219409 0.995780591 
+Row:  497 
+     chr     pos name   hg
+497 chrY 7628484 P217 I2a2
+myalign
+. 
+1 
+Row:  498 
+     chr     pos name      hg
+498 chrY 7629205 L702 I2a2a1b
+myalign
+. 
+1 
+Row:  499 
+     chr     pos name     hg
+499 chrY 7629512 L708 N1c1a1
+myalign
+. 
+1 
+Row:  500 
+     chr     pos  name          hg
+500 chrY 7644368 L1264 G2a1c2a1a2a
+myalign
+          .         +1T 
+0.998670213 0.001329787 
+Row:  501 
+     chr     pos name            hg
+501 chrY 7647335 L555 R1b1a2a1a2c1j
+myalign
+          ^`           ^^           ^~           ^|           ^.           ^' 
+0.0006544503 0.0026178010 0.0333769634 0.0071989529 0.0026178010 0.0006544503 
+          ^(           ^[           ^]           ^{           ^}           ^* 
+0.0006544503 0.0006544503 0.0013089005 0.0523560209 0.0150523560 0.0006544503 
+          ^&           ^+            .            $           ^0          +1T 
+0.0039267016 0.0124345550 0.6217277487 0.0032722513 0.0006544503 0.0006544503 
+          ^A           ^C           ^D           ^E           ^F           ^G 
+0.0013089005 0.0013089005 0.0013089005 0.0098167539 0.0026178010 0.0065445026 
+          ^H           ^I           ^J           ^K           ^L           ^M 
+0.0045811518 0.0052356021 0.0032722513 0.0163612565 0.0124345550 0.0078534031 
+          ^N           ^O           ^P           ^Q           ^R           ^S 
+0.0150523560 0.0176701571 0.0039267016 0.0065445026 0.0098167539 0.0071989529 
+          ^T           ^U           ^V           ^W           ^X           ^Y 
+0.0117801047 0.0091623037 0.0261780105 0.0071989529 0.0255235602 0.0065445026 
+          ^Z 
+0.0202879581 
+Row:  502 
+     chr     pos name hg
+502 chrY 7647357 P242 R1
+myalign
+G 
+1 
+Row:  503 
+     chr     pos name    hg
+503 chrY 7659777 L813 I1a2e
+myalign
+          .           G 
+0.997881356 0.002118644 
+Row:  504 
+     chr     pos name    hg
+504 chrY 7716262  L34 I2a2a
+myalign
+. 
+1 
+Row:  505 
+     chr     pos name       hg
+505 chrY 7729622 Z830 E1b1b1b2
+myalign
+          .           A 
+0.995798319 0.004201681 
+Row:  506 
+     chr     pos name     hg
+506 chrY 7770928 L665 N1c2b2
+myalign
+          .         +1C         +1T 
+0.993421053 0.001644737 0.004934211 
+Row:  507 
+     chr     pos name hg
+507 chrY 7771358 L228 J2
+myalign
+. 
+1 
+Row:  508 
+     chr     pos  name   hg
+508 chrY 7801788 Z1300 C3f1
+myalign
+. 
+1 
+Row:  509 
+     chr     pos name  hg
+509 chrY 7879415 L460 I2a
+myalign
+          .           G 
+0.998394864 0.001605136 
+Row:  510 
+     chr     pos name hg
+510 chrY 8050994 P229  R
+myalign
+G 
+1 
+Row:  511 
+     chr     pos  name           hg
+511 chrY 8051187 L1263 G2a1c2a1a1a1
+myalign
+. 
+1 
+Row:  512 
+     chr     pos name                hg
+512 chrY 8132368 L658 R1b1a2a1a2c1g2a1b
+myalign
+. 
+1 
+Row:  513 
+     chr     pos name   hg
+513 chrY 8148869  L56 Q1a3
+myalign
+. 
+1 
+Row:  514 
+     chr     pos name    hg
+514 chrY 8235033 L213 Q1a3a
+myalign
+          .           $         +1T 
+0.996732026 0.001633987 0.001633987 
+Row:  515 
+     chr     pos name      hg
+515 chrY 8245045 S224 R1a1a1b
+myalign
+          .         +1G 
+0.998305085 0.001694915 
+Row:  516 
+     chr     pos name  hg
+516 chrY 8335203 P249 R2a
+myalign
+. 
+1 
+Row:  517 
+     chr     pos name hg
+517 chrY 8353840 L281 F3
+myalign
+. 
+1 
+Row:  518 
+     chr     pos name hg
+518 chrY 8418927  S35  J
+myalign
+. 
+1 
+Row:  519 
+     chr     pos name                   hg
+519 chrY 8425088 S387 R1b1a2a1a1c2b2a1a2b1
+myalign
+. 
+1 
+Row:  520 
+     chr     pos name  hg
+520 chrY 8426321 L417 I2b
+myalign
+. 
+1 
+Row:  521 
+     chr     pos name  hg
+521 chrY 8426362 L266 R2a
+myalign
+          .         +1T 
+0.992125984 0.007874016 
+Row:  522 
+     chr     pos name  hg
+522 chrY 8466781 P329 L1a
+myalign
+. 
+1 
+Row:  523 
+     chr     pos name           hg
+523 chrY 8466862 L617 R1b1a2a1a2a2
+myalign
+. 
+1 
+Row:  524 
+     chr     pos name        hg
+524 chrY 8466988 P291 A1b1b2a1a
+myalign
+          .         -1T         +1T 
+0.997542998 0.001228501 0.001228501 
+Row:  525 
+     chr     pos   name         hg
+525 chrY 8467053 P278.1 E1b1a1a1g1
+myalign
+         .          A 
+0.99845679 0.00154321 
+Row:  526 
+     chr     pos name  hg
+526 chrY 8467136 L183 G2b
+myalign
+. 
+1 
+Row:  527 
+     chr     pos name hg
+527 chrY 8467290 L298 LT
+myalign
+          .           C 
+0.998050682 0.001949318 
+Row:  528 
+     chr     pos  name   hg
+528 chrY 8483661 L1324 G1a1
+myalign
+. 
+1 
+Row:  529 
+     chr     pos name       hg
+529 chrY 8502236  L51 R1b1a2a1
+myalign
+G 
+1 
+Row:  530 
+     chr     pos name     hg
+530 chrY 8533735 M417 R1a1a1
+myalign
+          .         +1C 
+0.998381877 0.001618123 
+Row:  531 
+     chr     pos  name         hg
+531 chrY 8557714 Z1941 N1c1a1a2a1
+myalign
+          .         +1G 
+0.998569385 0.001430615 
+Row:  532 
+     chr     pos name hg
+532 chrY 8558969 P130 IJ
+myalign
+          .           G 
+0.998144712 0.001855288 
+Row:  533 
+     chr     pos name   hg
+533 chrY 8576009  L22 I1a2
+myalign
+. 
+1 
+Row:  534 
+     chr     pos name hg
+534 chrY 8590752 P127 IJ
+myalign
+          .         +1G 
+0.998641304 0.001358696 
+Row:  535 
+     chr     pos   name   hg
+535 chrY 8619592 M104_1 M1b1
+myalign
+. 
+1 
+Row:  536 
+     chr     pos   name   hg
+536 chrY 8620324 M104_2 M1b1
+myalign
+         .          $ 
+0.96428571 0.03571429 
+Row:  537 
+     chr     pos     name    hg
+537 chrY 8620377 DYS257_2 O3a1a
+myalign
+. 
+1 
+Row:  538 
+     chr     pos name hg
+538 chrY 8679843 P132  K
+myalign
+G 
+1 
+Row:  539 
+     chr     pos name hg
+539 chrY 8685230 P256  M
+myalign
+          .           A 
+0.998671979 0.001328021 
+Row:  540 
+     chr     pos name         hg
+540 chrY 8717196 S221 R1a1a1b1a3
+myalign
+. 
+1 
+Row:  541 
+     chr     pos name         hg
+541 chrY 8796078 M405 R1b1a2a1a1
+myalign
+        .       -1G 
+0.8675862 0.1324138 
+Row:  542 
+     chr     pos name hg
+542 chrY 8796086 L690 O2
+myalign
+          .        +2TC 
+0.998550725 0.001449275 
+Row:  543 
+     chr     pos name         hg
+543 chrY 9154908  Z78 I2a2a1c1b1
+myalign
+. 
+1 
+Row:  544 
+     chr     pos name             hg
+544 chrY 9377658  Z10 R1b1a2a1a1c2b2
+myalign
+          .         +1G         +1T 
+0.992982456 0.003508772 0.003508772 
+Row:  545 
+     chr     pos  name        hg
+545 chrY 9448484 L1193 I2a2a1a1b
+myalign
+          .           T 
+0.996575342 0.003424658 
+Row:  546 
+     chr     pos name              hg
+546 chrY 9790893 L562 R1b1a2a1a2b1c1a
+myalign
+. 
+1 
+Row:  547 
+     chr     pos name        hg
+547 chrY 9791250 L137 I2a2a1a1a
+myalign
+          .           A 
+0.996996997 0.003003003 
+Row:  548 
+     chr     pos name hg
+548 chrY 9851457 P167 DE
+myalign
+T 
+1 
+Row:  549 
+     chr     pos name            hg
+549 chrY 9878915 DF21 R1b1a2a1a2c1g
+myalign
+          .           $ 
+0.998095238 0.001904762 
+Row:  550 
+     chr     pos  name           hg
+550 chrY 9879569 Z1893 E1b1a1a1f1b1
+myalign
+. 
+1 
+Row:  551 
+     chr     pos name    hg
+551 chrY 9985022 L293 G2a1a
+myalign
+           .            A 
+0.9993957704 0.0006042296 
+Dimensions of baseinfo: 
+[1] 551   6
