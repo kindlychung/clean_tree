@@ -48,7 +48,7 @@ assert(os.path.splitext(args.Bamfile)[1] == '.bam')
 def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
     return ''.join(random.choice(chars) for x in range(size))
 
-app_folder = os.getenv('HOME') + '/clean_tree/'
+app_folder = os.path.dirname(os.path.realpath(__file__))
 rsource = app_folder + 'clean_tree.r'
 reffile = app_folder + 'hg19.fa'
 rscriptn = '{}/tmp/main.r'.format(app_folder)
