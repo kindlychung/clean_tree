@@ -20,7 +20,7 @@
 
 # Usage and examples
 
-See this [blog post]("http://mathiology.blogspot.nl/2014/07/cleantree-software-for-high-resolution.html").
+See this [blog post](http://mathiology.blogspot.nl/2014/07/cleantree-software-for-high-resolution.html).
 
 # Bug report
 
