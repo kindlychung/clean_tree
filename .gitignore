@@ -1,5 +1,7 @@
 *.fasta
+out
 out.pu
+out.*
 tmp
 .*.un~
 .*.lock*

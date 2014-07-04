@@ -10,7 +10,7 @@
 <li>Open a terminal.</li>
 <li>Change to the directory where you want to put this software, for example <code>cd /home/user/opt/</code>, can be anything you like.</li>
 <li> <code>sudo apt-get install git-core</code></li>
-<li>git clone https://github.com/kindlychung/clean_tree.git</li>
+<li> <code>git clone https://github.com/kindlychung/clean_tree.git</code></li>
 <li> Get into the directory you just downloaded: <code>cd clean_tree</code></li>
 </ul>
 
@@ -22,3 +22,7 @@
 ./install.r
 </pre>
 
+<h3>Usage and examples</h3>
+<p>
+See this blog post:
+</p>

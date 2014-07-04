@@ -57,7 +57,7 @@ pileupfile = '{}/tmp/out.pu'.format(app_folder)
 #os.makedirs(tmp_folder, exist_ok=True)
 
 if args.pileup:
-    pileup_cmd = "samtools.latest mpileup -f {} {} > {}".format(reffile, args.Bamfile, pileupfile)
+    pileup_cmd = "samtools mpileup -f {} {} > {}".format(reffile, args.Bamfile, pileupfile)
     subprocess.call(pileup_cmd, shell=True)
     print(pileup_cmd)
 
