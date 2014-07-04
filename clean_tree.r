@@ -61,22 +61,20 @@ comb_indel_begin = function(align)
 
 getbase = function(mydat)
 {
-    print(mydat[, 1:4])
+    # print(mydat[, 1:4])
     myalign = strsplit(mydat$ALIGN, '')[[1]]
     myalign[myalign == ','] = '.'
     myalign = comb_indel_begin(myalign)
-    #tryCatch(coef(s)[2, 4], error = function(e) 1)
     qualraw = charToRaw(mydat$quality)
     if(length(myalign) != length(qualraw)) {
-        cat('align and quality not of the same length!\n')
         stop('align and quality not of the same length!\n')
     }
     myquality = strtoi(qualraw, 16L) - 33
     if(Quality_thresh > 0)
     {
         idx = myquality > Quality_thresh
-        if(sum(idx == TRUE) < Reads_thresh) {
-            print("No good reads!!!")
+        if(sum(idx) < Reads_thresh) {
+            # print("No good reads!!!")
             res = data.frame(f_align=NA, f_qual=NA, f_len=NA, max_base=NA, max_perc=NA, base=NA)
             return(res)
         }
@@ -104,7 +102,7 @@ getbase = function(mydat)
 
     myalign = paste(myalign, collapse='')
     f_qual = paste('Q', rawToChar(qualraw))
-    print(align_tab)
+    # print(align_tab)
     res = data.frame(f_align=myalign,
                      f_qual=f_qual,
                      f_len=nchar(myalign),
@@ -115,13 +113,11 @@ getbase = function(mydat)
 
 require(foreach)
 baseinfo = foreach(i = 1:nrow(marker_pileup), .combine = rbind) %do% {
-    cat('Row: ', i, '\n')
-    # if(i == 399) browser()
     getbase(marker_pileup[i, ])
 }
 
-cat('Dimensions of baseinfo: ', dim(baseinfo), '\n')
-cat('Dimensions of marker_pileup: ', dim(marker_pileup), '\n')
+# cat('Dimensions of baseinfo: ', dim(baseinfo), '\n')
+# cat('Dimensions of marker_pileup: ', dim(marker_pileup), '\n')
 
 marker_pileup = cbind(marker_pileup, baseinfo)
 eqANC = (marker_pileup$base == marker_pileup$ANC)
@@ -130,4 +126,4 @@ marker_pileup$branch = ifelse(eqANC & eqDER, 'E', ifelse(eqANC, 'A', ifelse(eqDE
 marker_pileup$quality = paste('Q', marker_pileup$quality)
 marker_pileup = marker_pileup[, ! names(marker_pileup) %in% c('ANC', 'DER', 'REFBASE', 'ALIGN')]
 write.table(marker_pileup, file=Outputfile, sep='\t', quote=FALSE, row.names=FALSE)
-write.table(chromotable, file=paste(Outputfile, '.chr.csv',  sep=''), sep='\t', quote=FALSE, row.names=FALSE)
+write.table(chromotable, file=paste(Outputfile, '.chr',  sep=''), sep='\t', quote=FALSE, row.names=FALSE)

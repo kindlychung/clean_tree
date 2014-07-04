@@ -1,4 +1,4 @@
-ucsc_hg19/hg19.fa
+*.fasta
 out.pu
 tmp
 .*.un~
