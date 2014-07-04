@@ -1,29 +1,38 @@
 #This file should be copied to /usr/local/arwin/src/
 
+# Markerfile = '/tmp/data/positions.txt'
+# Outputfile = '/tmp/data/out'
+# Pileupfile = '/home/kaiyin/clean_tree/tmp/out.pu'
 # Reads_thresh = 20
-# Markerfile = '/home/arwin/clean_tree/positions.csv'
-# Quality_thresh = 30
-# Base_majority = .95
-# Outputfile = '/home/arwin/clean_tree/tmp/out.csv'
-# Pileupfile = '/home/arwin/clean_tree/tmp/out.pu'
+# Quality_thresh = 25
+# Base_majority = 80
 
+require(mice)
+require(plyr)
 options(stringsAsFactors = FALSE)
 
 allow_base = c('a', 't', 'c', 'g', 'A', 'T', 'C', 'G', '.')
-require(mice)
 header_names = c("chr", "name", "hg", "pos", "mut", "anc", "der")
 marker_table = read.table(Markerfile, col.names=header_names, fill=TRUE, na.strings="", comment.char="")
 marker_table = cc(marker_table)
+message(sprintf("%d valid markers provided.", nrow(marker_table)))
 header_names = c('chr', 'pos', 'refbase', 'reads', 'align', 'quality')
 pileup_table = read.table(Pileupfile, col.names=header_names, fill=TRUE, na.strings='', comment.char="")
+message(sprintf("%d loci after pileup.", nrow(pileup_table)))
 
-require(plyr)
 chromotable = ddply(pileup_table, .(chr), function(x) sum(x$reads))
 colnames(chromotable)[2] = 'reads'
 chromotable$perc = chromotable$reads / sum(chromotable$reads) * 100
 
 pileup_table = pileup_table[(pileup_table$chr %in% unique(marker_table$chr)) & pileup_table$reads > Reads_thresh, ]
+message(sprintf("%d loci passed reads number filter.", nrow(pileup_table)))
 marker_pileup = merge(marker_table, pileup_table)
+message(sprintf("%d loci are in your markers list.", nrow(marker_pileup)))
+
+if(nrow(marker_pileup) == 0) {
+    stop("None of the loci is in your markers list. Exit...")
+}
+
 marker_pileup$ANC = toupper(marker_pileup$anc)
 marker_pileup$DER = toupper(marker_pileup$der)
 marker_pileup$REFBASE = toupper(marker_pileup$refbase)
@@ -74,7 +83,8 @@ getbase = function(mydat)
     {
         idx = myquality > Quality_thresh
         if(sum(idx) < Reads_thresh) {
-            # print("No good reads!!!")
+            # message(sprintf("Number of reads with quality above %d is too small (< %d)", Quality_thresh, Reads_thresh))
+            # print(mydat[, 1:3])
             res = data.frame(f_align=NA, f_qual=NA, f_len=NA, max_base=NA, max_perc=NA, base=NA)
             return(res)
         }
@@ -111,9 +121,11 @@ getbase = function(mydat)
     return(res)
 }
 
-require(foreach)
-baseinfo = foreach(i = 1:nrow(marker_pileup), .combine = rbind) %do% {
-    getbase(marker_pileup[i, ])
+nmarkers = nrow(marker_pileup)
+baseinfo = NULL
+for(i in 1:nmarkers) {
+    baseinfo_i = getbase(marker_pileup[i, ])
+    baseinfo = rbind(baseinfo, baseinfo_i)
 }
 
 # cat('Dimensions of baseinfo: ', dim(baseinfo), '\n')
@@ -125,5 +137,7 @@ eqDER = (marker_pileup$base == marker_pileup$DER)
 marker_pileup$branch = ifelse(eqANC & eqDER, 'E', ifelse(eqANC, 'A', ifelse(eqDER, 'D', NA)))
 marker_pileup$quality = paste('Q', marker_pileup$quality)
 marker_pileup = marker_pileup[, ! names(marker_pileup) %in% c('ANC', 'DER', 'REFBASE', 'ALIGN')]
+marker_pileup = marker_pileup[which(! is.na(marker_pileup$branch)), ]
+message(sprintf("%d markers gives you haplogroup information.", nrow(marker_pileup)))
 write.table(marker_pileup, file=Outputfile, sep='\t', quote=FALSE, row.names=FALSE)
 write.table(chromotable, file=paste(Outputfile, '.chr',  sep=''), sep='\t', quote=FALSE, row.names=FALSE)

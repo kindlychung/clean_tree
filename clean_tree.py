@@ -58,8 +58,8 @@ pileupfile = '{}/tmp/out.pu'.format(app_folder)
 
 if args.pileup:
     pileup_cmd = "samtools mpileup -f {} {} > {}".format(reffile, args.Bamfile, pileupfile)
-    subprocess.call(pileup_cmd, shell=True)
     print(pileup_cmd)
+    subprocess.call(pileup_cmd, shell=True)
 
 roptions1 = """
 Markerfile = '{Markerfile}'
@@ -74,4 +74,4 @@ rfile = roptions1 + roptions2 + open(rsource).read()
 with open(rscriptn, 'w') as r_out:
     r_out.write(rfile)
 rcmd = 'Rscript --vanilla {}'.format(rscriptn)
-subprocess.call(rcmd.split())
+subprocess.call(rcmd, shell=True)
