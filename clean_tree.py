@@ -49,29 +49,32 @@ def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
     return ''.join(random.choice(chars) for x in range(size))
 
 app_folder = os.path.dirname(os.path.realpath(__file__))
-rsource = app_folder + 'clean_tree.r'
-reffile = app_folder + 'hg19.fa'
-rscriptn = '{}/tmp/main.r'.format(app_folder)
-pileupfile = '{}/tmp/out.pu'.format(app_folder)
-#tmp_folder = '/tmp/arwin.' + id_generator()
-#os.makedirs(tmp_folder, exist_ok=True)
-
-if args.pileup:
-    pileup_cmd = "samtools.latest mpileup -f {} {} > {}".format(reffile, args.Bamfile, pileupfile)
-    subprocess.call(pileup_cmd, shell=True)
-    print(pileup_cmd)
-
-roptions1 = """
-Markerfile = '{Markerfile}'
-Outputfile = '{Outputfile}'
-Reads_thresh = {Reads_thresh}
-Quality_thresh = {Quality_thresh}
-Base_majority = {Base_majority}
-""".format(**vars(args))
-roptions2 = "Pileupfile = '{}'\n\n".format(pileupfile)
-
-rfile = roptions1 + roptions2 + open(rsource).read()
-with open(rscriptn, 'w') as r_out:
-    r_out.write(rfile)
-rcmd = 'Rscript --vanilla {}'.format(rscriptn)
-subprocess.call(rcmd.split())
+rsource = os.path.join(app_folder, 'clean_tree.r')
+reffile = os.path.join(app_folder, 'hg19.fa')
+print(app_folder)
+print(rsource)
+print(reffile)
+# rscriptn = '{}/tmp/main.r'.format(app_folder)
+# pileupfile = '{}/tmp/out.pu'.format(app_folder)
+# #tmp_folder = '/tmp/arwin.' + id_generator()
+# #os.makedirs(tmp_folder, exist_ok=True)
+#
+# if args.pileup:
+#     pileup_cmd = "samtools.latest mpileup -f {} {} > {}".format(reffile, args.Bamfile, pileupfile)
+#     subprocess.call(pileup_cmd, shell=True)
+#     print(pileup_cmd)
+#
+# roptions1 = """
+# Markerfile = '{Markerfile}'
+# Outputfile = '{Outputfile}'
+# Reads_thresh = {Reads_thresh}
+# Quality_thresh = {Quality_thresh}
+# Base_majority = {Base_majority}
+# """.format(**vars(args))
+# roptions2 = "Pileupfile = '{}'\n\n".format(pileupfile)
+#
+# rfile = roptions1 + roptions2 + open(rsource).read()
+# with open(rscriptn, 'w') as r_out:
+#     r_out.write(rfile)
+# rcmd = 'Rscript --vanilla {}'.format(rscriptn)
+# subprocess.call(rcmd.split())

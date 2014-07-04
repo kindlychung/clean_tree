@@ -1,7 +1,5 @@
-*.bam
-*.bam.bai
-hg19.fa
-hg19.fa.fai
+ucsc_hg19/hg19.fa
 out.pu
 tmp
 .*.un~
+.*.lock*
