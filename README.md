@@ -13,8 +13,12 @@
 
 # Installation
 
-    # install dependencies and get hg19 data
+    # install dependencies
     ./install.sh
+    # link to executables and download hg19 data, configurations
+    ./install.py
+    # to make the configurations effective immediately:
+    source ~/.profile
     # install required R packages
     ./install.r
 
@@ -24,5 +28,5 @@ See this [blog post](http://mathiology.blogspot.nl/2014/07/cleantree-software-fo
 
 # Bug report
 
-Please email me at kindlychung _A*T_ gmail.com
+Please email me at kindlychung _A*T_ gmail.com when there is a problem getting the software up and running.
 

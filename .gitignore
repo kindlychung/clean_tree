@@ -1,5 +1,5 @@
 *.fasta
-ucsc_hg19/*.fa
+ucsc_hg19
 out
 out.pu
 out.*
