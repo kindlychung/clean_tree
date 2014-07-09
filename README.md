@@ -14,25 +14,25 @@
 
 1. Install dependencies, you can skip this step if these packages are already installed on your system
 
-    sudo apt-get install git-core apt-get install python3 r-base mawk p7zip-full wget samtools
+    `sudo apt-get install git-core apt-get install python3 r-base mawk p7zip-full wget samtools`
 
 2. Link to executables and download hg19 data, configurations
 
-    ./install.py
+    `./install.py`
 
 3. To make the configurations effective immediately:
 
-    source ~/.profile
+    `source ~/.profile`
 
 4. Install required R packages
 
-    ./install.r
+    `./install.r`
 
 In step 2 above, `install.py` put all executables in `~/bin` by default,
 making them only available to the user, in case you want install it system
 wide, you can do something like this instead:
 
-    ./install.py --prefix /usr/local/bin
+    `./install.py --prefix /usr/local/bin`
 
 # Usage and examples
 
