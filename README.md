@@ -7,19 +7,25 @@
 
 * Open a terminal.
 * Change to the directory where you want to put this software, for example cd `/home/user/opt/`, can be anything you like.
-* `sudo apt-get install git-core`
 * `git clone https://github.com/kindlychung/clean_tree.git`
 * Get into the directory you just downloaded: `cd clean_tree`
 
 # Installation
 
-    #1 install dependencies
-    ./install.sh
-    #2 link to executables and download hg19 data, configurations
+1 Install dependencies, you can skip this if these packages are already installed on your system
+
+    sudo apt-get install git-core apt-get install python3 r-base mawk p7zip-full wget samtools
+
+2 Link to executables and download hg19 data, configurations
+
     ./install.py
-    #3 to make the configurations effective immediately:
+
+3 To make the configurations effective immediately:
+
     source ~/.profile
-    #4 install required R packages
+
+4 Install required R packages
+
     ./install.r
 
 In step 2 above, `install.py` put all executables in `~/bin` by default,
