@@ -63,4 +63,4 @@ paths = os.getenv("PATH").split(":")
 if not args.prefix in paths:
     bashprofile = os.path.join(homedir + ".profile")
     with open(bashprofile, "a") as profilefh:
-        profilefh.write("""PATH="{0}:$PATH" """.format(args.prefix))
+        profilefh.write("""\nPATH="{0}:$PATH" """.format(args.prefix))

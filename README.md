@@ -12,19 +12,19 @@
 
 # Installation
 
-1 Install dependencies, you can skip this if these packages are already installed on your system
+1. Install dependencies, you can skip this step if these packages are already installed on your system
 
     sudo apt-get install git-core apt-get install python3 r-base mawk p7zip-full wget samtools
 
-2 Link to executables and download hg19 data, configurations
+2. Link to executables and download hg19 data, configurations
 
     ./install.py
 
-3 To make the configurations effective immediately:
+3. To make the configurations effective immediately:
 
     source ~/.profile
 
-4 Install required R packages
+4. Install required R packages
 
     ./install.r
 
