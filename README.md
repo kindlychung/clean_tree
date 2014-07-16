@@ -32,7 +32,7 @@ In step 2 above, `install.py` put all executables in `~/bin` by default,
 making them only available to the user, in case you want install it system
 wide, you can do something like this instead:
 
-    `./install.py --prefix /usr/local/bin`
+    ./install.py --prefix /usr/local/bin
 
 # Usage and examples
 
