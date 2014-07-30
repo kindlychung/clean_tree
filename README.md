@@ -42,3 +42,6 @@ See this [blog post](http://mathiology.blogspot.nl/2014/07/cleantree-software-fo
 
 Please email me at kindlychung _A*T_ gmail.com when there is a problem getting the software up and running.
 
+# Change log
+
+* Create a tmp folder in app dir on installation

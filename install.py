@@ -5,6 +5,8 @@ import os
 import sys
 import errno
 
+os.mkdir("tmp")
+
 def force_symlink(file1, file2):
     try:
         os.symlink(file1, file2)
