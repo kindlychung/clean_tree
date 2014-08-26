@@ -1,13 +1,13 @@
 # Requirements
-* Operating system: Linux only. Tested on Ubuntu 12.04LTS, but should also work on newer versions of Ubuntu. Can be easily ported to other Linux distributions.
-* R, python3, wget, git. All these are taken care of with the `install.sh` script if you are on Ubuntu Linux.
+* Operating system: Linux only. Tested on Ubuntu 12.04LTS, but should also work on newer versions of Ubuntu. It should be easy to made it work on other Linux distributions.
+* R, python3, wget, git.
 * Internet connection during installation (for downloading hg19 reference data).
 
 # Download source from github:
 
 * Open a terminal.
 * Change to the directory where you want to put this software, for example cd `/home/user/opt/`, can be anything you like.
-* `git clone https://github.com/kindlychung/clean_tree.git`
+* `git clone https://kindlychung@bitbucket.org/kindlychung/clean_tree.git`
 * Get into the directory you just downloaded: `cd clean_tree`
 
 # Installation
